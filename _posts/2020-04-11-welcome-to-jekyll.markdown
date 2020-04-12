@@ -3,6 +3,7 @@ layout: post
 title:  "Holiday and Monthly Sunday Create and Make Sessions"
 date:   2020-04-11
 client: Design Museum
+project_page: true 
 categories: workshops
 ---
 
