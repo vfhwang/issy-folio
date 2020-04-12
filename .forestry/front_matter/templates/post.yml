@@ -8,16 +8,38 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
+  config:
+    required: true
+    date_format: DD/MM/YYYY
 - type: text
   name: client
   label: client
-- type: text
-  name: categories
-  label: categories
+  config:
+    required: true
 - name: project_page
   type: boolean
   label: Project page
   description: Toggle to on if this project needs it's own page
+- name: category
+  type: select
+  default: film
+  config:
+    required: true
+    options:
+    - film
+    - " fashion / photography"
+    - " exhibitions / events"
+    - " workshops"
+    - " theatre"
+    - puppets
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: category
