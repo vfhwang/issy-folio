@@ -5,6 +5,8 @@ fields:
 - type: text
   name: layout
   label: layout
+  default: post
+  hidden: true
 - type: text
   name: title
   label: title
@@ -21,10 +23,6 @@ fields:
   label: client
   config:
     required: true
-- name: project_page
-  type: boolean
-  label: Project page
-  description: Toggle to on if this project needs it's own page
 - name: category
   type: select
   default: film
@@ -43,5 +41,9 @@ fields:
       file: 
       path: 
   label: category
+- name: project_page
+  type: boolean
+  label: Project page
+  description: Toggle to on if this project needs it's own page
 pages:
 - _posts/2019-03-06-some-project.md
