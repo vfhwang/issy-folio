@@ -17,3 +17,7 @@ fields:
 - type: text
   name: categories
   label: categories
+- name: project_page
+  type: boolean
+  label: Project page
+  description: Toggle to on if this project needs it's own page
