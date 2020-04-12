@@ -36,11 +36,11 @@ fields:
     required: true
     options:
     - film
-    - " fashion / photography"
-    - " exhibitions / events"
     - " workshops"
     - " theatre"
     - puppets
+    - exhibitions
+    - " fasion"
     source:
       type: simple
       section: 
