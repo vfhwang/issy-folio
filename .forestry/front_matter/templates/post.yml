@@ -45,5 +45,11 @@ fields:
   type: boolean
   label: Project page
   description: Toggle to on if this project needs it's own page
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: permalink
+  description: 'The URL. Use: category/title'
 pages:
 - _posts/2019-03-06-some-project.md
