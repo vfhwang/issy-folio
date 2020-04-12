@@ -43,3 +43,5 @@ fields:
       file: 
       path: 
   label: category
+pages:
+- _posts/some-project.md
