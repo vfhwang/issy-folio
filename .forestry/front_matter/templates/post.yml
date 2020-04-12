@@ -54,3 +54,5 @@ fields:
     field: project_page
     value: true
   label: URL
+pages:
+- _posts/some-project.md
