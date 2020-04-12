@@ -123,12 +123,66 @@ border:2px solid #4700B2;
       background-color: white;
       border-radius: 4px;
       padding:30px 30px 10px;
-      max-width: 1000px;
+      max-width: 1200px;
       box-shadow: 0px 4px 16px rgba(17,17,26,0.1), 0px 8px 32px rgba(17,17,26,0.05);
     }
     
     section{
       margin:0 0 30px 0;
+    }
+
+    .top{
+      padding:0 0 30px 0;
+    }
+
+    .year-title{
+      padding:0 0 20px 0;
+    }
+
+    .project{
+      padding:0 0 20px 0;
+    }
+
+    .small{
+      padding:4px 0 0;
+      font-size:12px;
+      font-weight:800;
+    }
+
+    /* Colours */
+
+    a{
+      color:inherit;
+    }
+
+    .film{
+      color:#467AD2;
+    }
+
+    .fashion{
+      color:#BD271A;
+    }
+
+    .exhibition{
+      color:#78A65A;
+    }
+
+    .workshops{
+      color:#DE9B58;
+    }
+
+    .theatre{
+      color:#78A65A;
+
+    }
+
+    .puppets{
+      color:#F08E81;
+
+    }
+
+    .other{
+      color:#333333;
     }
 
 
@@ -149,10 +203,18 @@ border:2px solid #4700B2;
       margin:0 0 30px 0;
     }
 
+    .small{
+      font-size:14px;
+    }
+
+    .top{
+      padding:0 0 60px 0;
+    }
+
 
 }
 
-@media only screen and (min-width: 1120px) {
+@media only screen and (min-width: 1320px) {
 
   #paper{
     margin:60px auto 200px;
