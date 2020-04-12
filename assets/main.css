@@ -116,15 +116,20 @@ border:2px solid #4700B2;
     background-color: #E0E0E0;
     color:#333333;
     }
+
+    img{
+      width:100%;
+      padding:0 0 30px 0;
+    }
     
 
     #paper{
       margin:4px 4px 200px;
       background-color: white;
-      border-radius: 4px;
+      border-radius: 2px;
       padding:30px 30px 10px;
       max-width: 1200px;
-      box-shadow: 0px 4px 16px rgba(17,17,26,0.1), 0px 8px 32px rgba(17,17,26,0.05);
+      box-shadow: 0px 0px 16px rgba(17,17,26,0.1);
     }
     
     section{
@@ -147,6 +152,10 @@ border:2px solid #4700B2;
       padding:4px 0 0;
       font-size:12px;
       font-weight:800;
+    }
+
+    .backlink{
+      padding:0 0 30px 0;
     }
 
     /* Colours */
@@ -212,6 +221,14 @@ border:2px solid #4700B2;
     }
 
 
+    img{
+      padding:0 0 60px 0;
+    }
+
+
+    .backlink{
+      padding:0 0 60px 0;
+    }
 }
 
 @media only screen and (min-width: 1320px) {
