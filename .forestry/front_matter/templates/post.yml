@@ -23,6 +23,12 @@ fields:
   label: client
   config:
     required: true
+- name: role
+  type: text
+  config:
+    required: false
+  label: role
+  description: Shown underneath the project title
 - name: category
   type: select
   default: film
