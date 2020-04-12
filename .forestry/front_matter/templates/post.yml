@@ -49,7 +49,10 @@ fields:
   type: text
   config:
     required: false
-  label: permalink
-  description: 'The URL. Use: category/title'
+  description: 'The bit after isobelirwin.com. Use: /category/title'
+  showOnly:
+    field: project_page
+    value: true
+  label: URL
 pages:
 - _posts/2019-03-06-some-project.md
