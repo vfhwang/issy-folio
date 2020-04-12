@@ -7,3 +7,6 @@ client: Someone
 project_page: false
 
 ---
+![](/uploads/MVIMG_20200328_114349.jpg)
+
+Blah blah blah something something
