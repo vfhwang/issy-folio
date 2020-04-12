@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Holiday and Monthly Sunday Create and Make Sessions"
+title:  "Regents Park Open Air Theatre — 101 Dalmatians"
 date:   2020-04-11
-client: Design Museum
-categories: workshops
+client: Toby Olie
+categories: puppets
+permalink: /puppets/101dalmations
+
 ---
 
 
