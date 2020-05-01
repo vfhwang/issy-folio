@@ -1,9 +1,9 @@
 ---
 layout: post
 category: film
-title: 'Gumball section Part 1 '
+title: 'Gumball Part 1 '
 date: 2015-11-01 00:00:00 +0000
-client: 'Director Becky & Joe / Blink Ink Productions/ Cartoon Network '
+client: 'Director Becky & Joe / Blink Ink Productions / Cartoon Network '
 role: Prop Maker / Puppeteer / Set Assistant
 project_page: false
 
