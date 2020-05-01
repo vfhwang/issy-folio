@@ -3,7 +3,7 @@ layout: post
 category: film
 title: Advert 'The Future of Music’
 date: 2016-02-01 00:00:00 +0000
-client: " Director Greg Barth /Blinkink Productions /Hello Play!"
+client: " Director Greg Barth / Blink Ink Productions / Hello Play!"
 role: Art Department
 project_page: false
 
@@ -11,3 +11,5 @@ project_page: false
 [https://vimeo.com/202515176](https://vimeo.com/202515176 "https://vimeo.com/202515176")
 
 [https://vimeo.com/157950364](https://vimeo.com/202515176 "https://vimeo.com/202515176")
+
+![](/uploads/IMG_4631.jpg)![](/uploads/IMG_4614.jpg)![](/uploads/IMG_4610.jpg)
