@@ -1,7 +1,7 @@
 ---
 layout: post
 category: film
-title: 'Don’t Hug me I''m scared episode 5 '
+title: "'Don’t Hug me I'm scared' Episode 5 "
 date: 2015-05-31 23:00:00 +0000
 client: 'Directed by Becky & Joe / Blink Ink Productions '
 role: 'Art department '
