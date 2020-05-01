@@ -61,9 +61,16 @@ fields:
     value: true
   label: URL
 pages:
+- _posts/2015-08-31-okido-messy-goes-to-okdio-launch-party.md
+- _posts/2016-02-01-okido-magazine.md
+- _posts/2017-03-01-okido-magazine-1.md
+- _posts/2017-05-31-3-hour-classes-teaching-experimental-art-exercises-to-over-60-year-olds-2.md
 - _posts/2017-05-31-national-theatre.md
+- _posts/2017-06-30-chocolate-films.md
 - _posts/2017-06-30-pinocchio-production.md
+- _posts/2017-07-31-isabel-and-helen-2.md
 - _posts/2017-10-31-3-prop-gravestones.md
+- _posts/2017-12-01-brexit-board-game.md
 - _posts/2019-01-01-loewe-advert.md
 - _posts/2019-02-01-louis-wain-feature-film.md
 - _posts/2019-04-30-a-weeks-project-you-ve-been-framed.md
@@ -73,7 +80,6 @@ pages:
 - _posts/2020-03-31-regents-park-open-air-theatre-101-dalmatians.md
 - _posts/2020-03-31-some-project.md
 - _posts/3-hour-classes-teaching-experimental-art-exercises-to-over-60-year-olds-1.md
-- _posts/3-hour-classes-teaching-experimental-art-exercises-to-over-60-year-olds-2.md
 - _posts/3-hour-classes-teaching-experimental-art-exercises-to-over-60-year-olds.md
 - _posts/ad-events.md
 - _posts/advert-intu-christmas.md
@@ -81,9 +87,7 @@ pages:
 - _posts/advert-nest-summer.md
 - _posts/advert-the-future-of-music.md
 - _posts/advert-the-impossible-nursery-rhyme.md
-- _posts/brexit-board-game.md
 - _posts/bryony-edwards.md
-- _posts/chocolate-films.md
 - _posts/don-t-hug-me-i-m-scared-episode-5.md
 - _posts/don-t-hug-me-i-m-scared-episode-6.md
 - _posts/exhibition-event-always-print-the-myth-pr-and-the-modern-age.md
@@ -95,7 +99,6 @@ pages:
 - _posts/gumball-section-part-1.md
 - _posts/handmaiden.md
 - _posts/isabel-and-helen-1.md
-- _posts/isabel-and-helen-2.md
 - _posts/isabel-and-helen.md
 - _posts/kangan-arora.md
 - _posts/messy-mascot-mascot-build.md
@@ -104,9 +107,6 @@ pages:
 - _posts/music-video-cupid-by-the-big-moon.md
 - _posts/music-video-steambreather-by-mastodon.md
 - _posts/music-video-this-is-a-war-by-all-saints.md
-- _posts/okido-magazine-1.md
-- _posts/okido-magazine.md
-- _posts/okido-messy-goes-to-okdio-launch-party.md
 - _posts/rankin-photography-1.md
 - _posts/rankin-photography.md
 - _posts/robert-storeys-studio.md
