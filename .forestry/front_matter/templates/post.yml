@@ -61,6 +61,7 @@ fields:
     value: true
   label: URL
 pages:
+- _posts/2017-06-30-pinocchio-production.md
 - _posts/2019-01-01-loewe-advert.md
 - _posts/2019-02-01-louis-wain-feature-film.md
 - _posts/2019-04-30-a-weeks-project-you-ve-been-framed.md
@@ -106,7 +107,6 @@ pages:
 - _posts/okido-magazine-1.md
 - _posts/okido-magazine.md
 - _posts/okido-messy-goes-to-okdio-launch-party.md
-- _posts/pinocchio-production.md
 - _posts/rankin-photography-1.md
 - _posts/rankin-photography.md
 - _posts/robert-storeys-studio.md
