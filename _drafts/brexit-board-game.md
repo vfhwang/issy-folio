@@ -1,7 +1,7 @@
 ---
 layout: post
 category: film
-title: Brexit Board game
+title: Brexit Board Game
 date: 2017-12-01 00:00:00 +0000
 client: Jack Needel / Studio Yes
 role: Art Department
