@@ -61,7 +61,9 @@ fields:
     value: true
   label: URL
 pages:
+- _posts/2017-05-31-national-theatre.md
 - _posts/2017-06-30-pinocchio-production.md
+- _posts/2017-10-31-3-prop-gravestones.md
 - _posts/2019-01-01-loewe-advert.md
 - _posts/2019-02-01-louis-wain-feature-film.md
 - _posts/2019-04-30-a-weeks-project-you-ve-been-framed.md
@@ -73,7 +75,6 @@ pages:
 - _posts/3-hour-classes-teaching-experimental-art-exercises-to-over-60-year-olds-1.md
 - _posts/3-hour-classes-teaching-experimental-art-exercises-to-over-60-year-olds-2.md
 - _posts/3-hour-classes-teaching-experimental-art-exercises-to-over-60-year-olds.md
-- _posts/3-prop-gravestones.md
 - _posts/ad-events.md
 - _posts/advert-intu-christmas.md
 - _posts/advert-microsoft-christmas.md
@@ -103,7 +104,6 @@ pages:
 - _posts/music-video-cupid-by-the-big-moon.md
 - _posts/music-video-steambreather-by-mastodon.md
 - _posts/music-video-this-is-a-war-by-all-saints.md
-- _posts/national-theatre.md
 - _posts/okido-magazine-1.md
 - _posts/okido-magazine.md
 - _posts/okido-messy-goes-to-okdio-launch-party.md
