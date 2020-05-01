@@ -9,4 +9,4 @@ role: Animation Workshop Facilitator
 project_page: false
 
 ---
-[https://www.youtube.com/watch?v=wmX33sjyCtc](https://www.youtube.com/watch?v=wmX33sjyCtc "https://www.youtube.com/watch?v=wmX33sjyCtc")
+![](/uploads/Chocolate Films Kew_inside.JPG)![](/uploads/Chocolate Films_Outside.JPG)[https://www.youtube.com/watch?v=wmX33sjyCtc](https://www.youtube.com/watch?v=wmX33sjyCtc "https://www.youtube.com/watch?v=wmX33sjyCtc")
