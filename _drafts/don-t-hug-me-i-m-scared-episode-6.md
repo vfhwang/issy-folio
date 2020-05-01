@@ -8,4 +8,4 @@ role: Prop Maker / Puppeteer / Set Assistant
 project_page: false
 
 ---
-[https://vimeo.com/171385266](https://vimeo.com/171385266 "https://vimeo.com/171385266")
+![](/uploads/99690002.JPG)[https://vimeo.com/171385266](https://vimeo.com/171385266 "https://vimeo.com/171385266")
