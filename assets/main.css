@@ -112,8 +112,8 @@ border:2px solid #4700B2;
     font-family:Arial, serif;
     font-weight: 400;
     line-height:1.3;
-    font-size:18px;
-    background-color: #E0E0E0;
+    font-size:16px;
+    background-color: #FCFCF8;
     color:#333333;
     }
 
@@ -122,6 +122,68 @@ border:2px solid #4700B2;
       padding:0 0 30px 0;
     }
     
+    .logo{
+      width:300px;
+    }
+
+    .label{
+      font-weight: 800;
+      font-size:12px;
+      color:#ffffff;
+      display:inline-block;
+      padding:3px;
+      border-radius:4px;
+      line-height:100%;
+      /* margin:-2px 4px 2px 4px; */
+      white-space: nowrap;
+      vertical-align: middle;
+
+    }
+
+    .label.film{
+      /* background-color:#467AD2; */
+      background-color:#1C5A7A;
+    }
+
+    .label.fashion{
+      /* background-color:#BD271A; */
+      background-color:#7553D7;
+    }
+
+    .label.exhibitions{
+      /* background-color:#78A65A; */
+      background-color:#2C594F;
+    }
+
+    .label.workshops{
+      /* background-color:#FA9F45; */
+      background-color:#FFA644;
+    }
+
+    .label.theatre{
+      /* background-color:#78A65A; */
+      background-color: #A06384;
+    }
+
+    .label.puppets{
+      /* background-color:#F08E81; */
+      background-color:#E64661;
+    }
+
+    .label.other{
+      background-color:#333333;
+    }
+
+
+    .titlewrapper{
+      /* display:flex; */
+    }
+
+    .projecttitle{
+      display:inline-block;
+      vertical-align: middle;
+
+    }
 
     #paper{
       margin:4px 4px 200px;
@@ -146,6 +208,7 @@ border:2px solid #4700B2;
 
     .project{
       padding:0 0 20px 0;
+      font-weight:800;
     }
 
     .small{
@@ -166,32 +229,32 @@ border:2px solid #4700B2;
 
     .film{
       /* color:#467AD2; */
-      color:#003CD7
+      color:#1C5A7A;
     }
 
     .fashion{
       /* color:#BD271A; */
-      color:#D81100;
+      color:#7553D7;
     }
 
     .exhibitions{
       /* color:#78A65A; */
-      color:#00A707;
+      color:#2C594F;
     }
 
     .workshops{
       /* color:#FA9F45; */
-      color:#FF7800;
+      color:#FFA644;
     }
 
     .theatre{
       /* color:#78A65A; */
-      color: #008890;
+      color: #A06384;
     }
 
     .puppets{
       /* color:#F08E81; */
-      color:#D11C9F;
+      color:#E64661;
     }
 
     .other{
@@ -204,7 +267,7 @@ border:2px solid #4700B2;
   @media only screen and (min-width: 600px) {
 
   body{
-  font-size:24px;
+  font-size:20px;
   }
 
   #paper{
@@ -217,7 +280,7 @@ border:2px solid #4700B2;
     }
 
     .small{
-      font-size:14px;
+      font-size:12px;
     }
 
     .top{
