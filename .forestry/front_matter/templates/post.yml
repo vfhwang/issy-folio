@@ -40,7 +40,7 @@ fields:
     - " theatre"
     - puppets
     - exhibitions
-    - " fasion"
+    - " fashion"
     source:
       type: simple
       section: 

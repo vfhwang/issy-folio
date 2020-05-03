@@ -1,6 +1,6 @@
 ---
 layout: post
-category: " fasion"
+category: " fashion"
 title: George Lewin Studio
 date: 2015-05-31 23:00:00 +0000
 client: 'Jobs Include: Elle, Presentation, Chalayan, Resort ‘16, Outnet, Julia Seemann

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: " fasion"
+category: " fashion"
 title: Isabel and Helen
 date: 2016-09-30 23:00:00 +0000
 client: 'Jobs Include : Warehouse campaign, Adidas campaign'

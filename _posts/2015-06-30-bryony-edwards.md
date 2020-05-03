@@ -1,6 +1,6 @@
 ---
 layout: post
-category: " fasion"
+category: " fashion"
 title: Bryony Edwards
 date: 2015-06-30 23:00:00 +0000
 client: 'Jobs Include: Womo Menswear Campaign, Instyle magazine, Daniel Poole, Campaign,

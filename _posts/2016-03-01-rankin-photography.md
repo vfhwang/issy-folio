@@ -1,6 +1,6 @@
 ---
 layout: post
-category: " fasion"
+category: " fashion"
 title: Rankin Photography
 date: 2016-03-01 00:00:00 +0000
 client: 'Jobs Include: Make up forever, Bodyshop, Feel Unique, John Frieda, Bodyshop'

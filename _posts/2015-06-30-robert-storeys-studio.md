@@ -1,6 +1,6 @@
 ---
 layout: post
-category: " fasion"
+category: " fashion"
 title: Robert Storeys Studio
 date: 2015-06-30 23:00:00 +0000
 client: 'Jobs Include: Mary Katrantzou Adidas, Launch Event, Nicole, Farhi Window

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: " fasion"
+category: " fashion"
 title: Miguel Bento
 date: 2016-03-31 23:00:00 +0000
 client: 'Jobs Include: Build of LFW presentation, Mulberry Campaign, Harrods install,
