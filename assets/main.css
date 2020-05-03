@@ -165,29 +165,33 @@ border:2px solid #4700B2;
     }
 
     .film{
-      color:#467AD2;
+      /* color:#467AD2; */
+      color:#003CD7
     }
 
     .fashion{
-      color:#BD271A;
+      /* color:#BD271A; */
+      color:#D81100;
     }
 
     .exhibitions{
-      color:#78A65A;
+      /* color:#78A65A; */
+      color:#00A707;
     }
 
     .workshops{
-      color:#FA9F45;
+      /* color:#FA9F45; */
+      color:#FF7800;
     }
 
     .theatre{
-      color:#78A65A;
-
+      /* color:#78A65A; */
+      color: #008890;
     }
 
     .puppets{
-      color:#F08E81;
-
+      /* color:#F08E81; */
+      color:#D11C9F;
     }
 
     .other{
