@@ -1,8 +1,8 @@
 ---
 layout: post
 category: " workshops"
-title: 3 hour classes teaching experimental art exercises to over 60 year olds
-date: 2017-05-31 23:00:00 +0000
+title: Workshops for Over 60 Year Olds
+date: 2017-05-31T23:00:00.000+00:00
 client: Faceby Village Art Class Workshop
 role: Workshop Leader
 project_page: false
