@@ -1,11 +1,11 @@
 ---
 layout: post
 category: puppets
-title: Advert 'An Otter’s Tale' - LOEWE
+title: "'An Otter’s Tale' Advert "
 date: 2019-06-01 23:00:00 +0000
-client: Gordon Allan /Blink Ink Productions
+client: " Blink Ink Productions / Gordon Allan / LOEWE"
 role: Assistant Puppet Maker
-project_page: false
+project_page: true
 
 ---
 <iframe src="[https://player.vimeo.com/video/373116069](https://player.vimeo.com/video/373116069 "https://player.vimeo.com/video/373116069")" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
