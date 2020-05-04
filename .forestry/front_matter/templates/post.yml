@@ -61,7 +61,6 @@ fields:
     value: true
   label: URL
 pages:
-- _posts/101-dalmatians.md
 - _posts/2015-03-01-exhibition-event-always-print-the-myth-pr-and-the-modern-age.md
 - _posts/2015-05-31-don-t-hug-me-i-m-scared-episode-5.md
 - _posts/2015-05-31-george-lewin-studio.md
@@ -103,6 +102,9 @@ pages:
 - _posts/2019-09-30-holiday-and-monthly-sunday-create-and-make-sessions.md
 - _posts/2019-09-30-working-with-the-charity-anstee-bridge-to-create-exhibition-content-for-nhs-70-years-project.md
 - _posts/2019-11-01-europe.md
+- _posts/2020-01-06-holiday-and-monthly-sunday-create-and-make-sessions-1.md
+- _posts/2020-02-09-you-ve-been-framed.md
+- _posts/2020-02-16-101-dalmatians.md
 - _posts/2020-03-31-regents-park-open-air-theatre-101-dalmatians.md
 - _posts/2020-03-31-some-project.md
 - _posts/a-weeks-project-you-ve-been-framed.md
@@ -112,7 +114,6 @@ pages:
 - _posts/emilia-eyam-dr-faustus.md
 - _posts/europe.md
 - _posts/feature-film-louis-wain.md
-- _posts/holiday-and-monthly-sunday-create-and-make-sessions-1.md
 - _posts/holiday-and-monthly-sunday-create-and-make-sessions.md
 - _posts/ioi-steam-festival-2018-breathing-together-festival-2018-culture-mile-2018-latitude-festival-2018.md
 - _posts/julie-home-i-m-darling-translations-connections-tale-tell-heart-tartuffe.md
@@ -124,4 +125,3 @@ pages:
 - _posts/tv-pilot-don-t-hug-me-i-m-scared.md
 - _posts/wolves-in-the-walls.md
 - _posts/workshops-creating-exhibition-content-for-nhs-70-years-project.md
-- _posts/you-ve-been-framed.md
