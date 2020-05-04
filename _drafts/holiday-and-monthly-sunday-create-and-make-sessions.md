@@ -1,0 +1,10 @@
+---
+layout: post
+category: " workshops"
+title: Holiday and Monthly Sunday Create and Make Sessions
+date: 2019-06-28 23:00:00 +0000
+client: Design Museum
+role: Workshop Facilitator and Content creator
+project_page: false
+
+---
