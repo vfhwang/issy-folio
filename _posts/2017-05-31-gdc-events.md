@@ -1,9 +1,9 @@
 ---
 layout: post
 category: exhibitions
-title: GDC Events
-date: 2017-05-31 23:00:00 +0000
-client: Ascot Summer & Christmas Install
+title: Ascot Summer & Christmas Install
+date: 2017-05-31T23:00:00.000+00:00
+client: 'GDC Events '
 role: Production Assistant
 project_page: false
 
