@@ -1,9 +1,9 @@
 ---
 layout: post
 category: film
-title: 'Advert ''Intu Christmas'' '
-date: 2016-07-31 23:00:00 +0000
-client: 'Directed by Joe Mann / Art Directed by Gordon Allan / Blink Ink Productions '
+title: "'Intu Christmas' Advert "
+date: 2016-07-31T23:00:00.000+00:00
+client: 'Directed by Joe Mann /  Art Directed by Gordon Allan / Blink Ink Productions '
 role: Art Department
 project_page: false
 
