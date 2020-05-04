@@ -1,9 +1,9 @@
 ---
 layout: post
 category: exhibitions
-title: AD Events
+title: " Bafta Awards Dinner & After Party"
 date: 2019-02-03 00:00:00 +0000
-client: " Bafta Awards Dinner & After Party"
+client: 'AD Events '
 role: Production Assistant
 project_page: false
 
