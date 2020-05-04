@@ -1,7 +1,7 @@
 ---
 layout: post
 category: " workshops"
-title: " A weeks project ‘You’ve been framed’"
+title: "‘You’ve been framed’"
 date: 2019-02-17 00:00:00 +0000
 client: Kingston Foundation Diploma
 role: Workshop Facilitator and Content creator
