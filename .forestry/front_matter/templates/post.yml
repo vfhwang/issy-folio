@@ -61,6 +61,7 @@ fields:
     value: true
   label: URL
 pages:
+- _posts/101-dalmatians.md
 - _posts/2015-03-01-exhibition-event-always-print-the-myth-pr-and-the-modern-age.md
 - _posts/2015-05-31-don-t-hug-me-i-m-scared-episode-5.md
 - _posts/2015-05-31-george-lewin-studio.md
