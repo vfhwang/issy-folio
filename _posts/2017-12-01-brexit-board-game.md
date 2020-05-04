@@ -3,7 +3,7 @@ layout: post
 category: film
 title: Brexit Board Game
 date: 2017-12-01T00:00:00.000+00:00
-client: Jack Needel / Studio Yes
+client: Art Directed by Jack Needel / Studio Yes
 role: Art Department
 project_page: false
 
