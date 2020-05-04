@@ -1,9 +1,9 @@
 ---
 layout: post
 category: " fashion"
-title: Isabel and Helen
-date: 2016-09-30 23:00:00 +0000
-client: 'Jobs Include : Warehouse campaign, Adidas campaign'
+title: 'Jobs Include: Warehouse campaign, Adidas campaign'
+date: 2016-09-30T23:00:00.000+00:00
+client: 'Isabel and Helen '
 role: Set Assistant
 project_page: false
 
