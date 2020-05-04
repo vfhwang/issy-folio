@@ -1,10 +1,10 @@
 ---
 layout: post
 category: " fashion"
-title: Bryony Edwards
-date: 2015-06-30 23:00:00 +0000
-client: 'Jobs Include: Womo Menswear Campaign, Instyle magazine, Daniel Poole, Campaign,
+title: 'Jobs Include: Womo Menswear Campaign, Instyle magazine, Daniel Poole, Campaign,
   D’scene magazine, You Magazine, Porter magazine'
+date: 2015-06-30T23:00:00.000+00:00
+client: 'Bryony Edwards '
 role: Set Assistant
 project_page: false
 
