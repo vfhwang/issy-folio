@@ -1,6 +1,6 @@
 ---
 layout: post
-category: exhibitions
+category: " workshops"
 title: "'Love Bug' Animation Workshop"
 date: 2017-06-30T23:00:00.000+00:00
 client: Directed by Chocolate Films / Kew Gardens
