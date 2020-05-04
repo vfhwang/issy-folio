@@ -1,9 +1,9 @@
 ---
 layout: post
 category: film
-title: Advert 'Nest Summer'
-date: 2017-03-26 23:00:00 +0000
-client: " Brin Frost /Just So "
+title: "'Nest Summer' Advert "
+date: 2017-03-26T23:00:00.000+00:00
+client: 'Art Directed by Brin Frost /Just So '
 role: Assistant Art Director
 project_page: false
 
