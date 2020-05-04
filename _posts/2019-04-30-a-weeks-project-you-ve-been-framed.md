@@ -1,10 +1,10 @@
 ---
 layout: post
 category: film
-title: A weeks project ‘You’ve been framed’
-date: 2019-04-30 23:00:00 +0000
+title: "‘You’ve been framed’ Workshop"
+date: 2019-04-30T23:00:00.000+00:00
 client: Kingston Foundation Diploma
-role: Workshop Facilitator and Content creator
+role: Workshop Facilitator and Content Creator
 project_page: false
 
 ---
