@@ -1,9 +1,9 @@
 ---
 layout: post
 category: " fashion"
-title: Rankin Photography
+title: L’Oreal 
 date: 2017-04-30 23:00:00 +0000
-client: 'L’Oreal '
+client: 'Rankin Photography'
 role: Set Assistant
 project_page: false
 

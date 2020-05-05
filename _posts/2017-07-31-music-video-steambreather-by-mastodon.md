@@ -1,9 +1,9 @@
 ---
 layout: post
 category: film
-title: 'Music Video ‘Steambreather’ by Mastodon '
+title: 'Steambreather — by Mastodon'
 date: 2017-07-31 23:00:00 +0000
-client: " Brin Frost / Blink Ink Productions"
+client: " Brin Frost / Blink Ink"
 role: " Art Department"
 project_page: false
 

@@ -1,10 +1,9 @@
 ---
 layout: post
 category: puppets
-title: "'An Otter’s Tale' Advert "
+title: "An Otter’s Tale - LOEWE"
 date: 2019-06-01 23:00:00 +0000
-client: Directed by Nina Gantz / Art Directed by Gordon Allan / Blink Ink Productions
-  / LOEWE
+client: Nina Gantz / Gordon Allan / Blink Ink 
 role: Assistant Puppet Maker
 project_page: true
 
