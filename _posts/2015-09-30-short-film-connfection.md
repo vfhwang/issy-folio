@@ -1,9 +1,9 @@
 ---
 layout: post
 category: film
-title: Short film ‘Connfection'
+title: Connfection
 date: 2015-09-30 23:00:00 +0000
-client: Director Ed Rigg / Misfit Studios
+client: Ed Rigg / Misfit Studios
 role: 'Art department  '
 project_page: false
 

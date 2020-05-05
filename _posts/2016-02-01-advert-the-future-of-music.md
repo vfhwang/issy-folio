@@ -1,10 +1,9 @@
 ---
 layout: post
 category: film
-title: "'The Future of Music’ Advert "
+title: "The Future of Music"
 date: 2016-02-01T00:00:00.000+00:00
-client: " Director Greg Barth / Art Directed by Will Vincent / Blink Ink Productions
-  / Hello Play!"
+client: "Greg Barth / Will Vincent / Blink Ink"
 role: Art Department
 project_page: false
 

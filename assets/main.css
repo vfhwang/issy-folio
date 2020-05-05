@@ -137,6 +137,7 @@ border:2px solid #4700B2;
       /* margin:-2px 4px 2px 4px; */
       white-space: nowrap;
       vertical-align: middle;
+      margin-bottom:4px;
 
     }
 
@@ -182,7 +183,7 @@ border:2px solid #4700B2;
     .projecttitle{
       display:inline-block;
       vertical-align: middle;
-
+      margin-bottom:4px;
     }
 
     #paper{

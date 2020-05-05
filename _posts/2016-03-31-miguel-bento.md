@@ -1,10 +1,9 @@
 ---
 layout: post
 category: " fashion"
-title: Miguel Bento
+title: 'Various jobs'
 date: 2016-03-31 23:00:00 +0000
-client: 'Jobs Include: Build of LFW presentation, Mulberry Campaign, Harrods install,
-  Numero Magazine, Man about town magazine'
+client: Miguel Bento
 role: Set Assistant
 project_page: false
 

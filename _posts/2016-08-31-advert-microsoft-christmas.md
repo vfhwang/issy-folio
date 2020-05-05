@@ -1,9 +1,9 @@
 ---
 layout: post
 category: film
-title: "'Microsoft Christmas' Advert "
+title: "Microsoft Christmas advert"
 date: 2016-08-31T23:00:00.000+00:00
-client: Art Directed by Zach Apo-Tsang / Microsoft
+client: Zach Apo-Tsang
 role: Set Dresser
 project_page: false
 
