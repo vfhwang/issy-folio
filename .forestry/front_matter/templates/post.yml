@@ -1,5 +1,5 @@
 ---
-label: Post
+label: Project
 hide_body: false
 fields:
 - type: text
@@ -60,6 +60,32 @@ fields:
     field: project_page
     value: true
   label: URL
+- name: featured
+  type: boolean
+  label: Featured
+  description: 'Should this be at the top of the page? '
+- name: featured_image
+  type: file
+  config:
+    maxSize: 64
+  label: Featured_image
+  showOnly:
+    field: featured
+    value: true
+  description: The image used alongside the project
+- name: featured_order
+  type: number
+  label: Featured_order
+  description: 'Which number in the order of featured posts is this? '
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  showOnly:
+    field: featured
+    value: true
 pages:
 - _posts/2015-03-01-exhibition-event-always-print-the-myth-pr-and-the-modern-age.md
 - _posts/2015-05-31-don-t-hug-me-i-m-scared-episode-5.md
@@ -116,8 +142,6 @@ pages:
 - _posts/2020-02-16-101-dalmatians.md
 - _posts/2020-03-31-regents-park-open-air-theatre-101-dalmatians.md
 - _posts/2020-03-31-some-project.md
-- _posts/eyam.md
-- _posts/feature-film-louis-wain.md
 - _posts/salome-porgy-and-bess.md
 - _posts/slime-festival-2-promotion-adverts-for-tv-shows.md
 - _posts/the-wizard-of-oz.md
