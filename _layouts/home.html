@@ -48,11 +48,13 @@
 		<!-- Featured -->
 
 		<section>
-		{% for post in site.posts %}
+
+			<ul class="project-grid">
+
+			{% for post in site.posts %}
 			{% if post.featured == true %}
 			
 
-				<ul class="project-grid">
 
 			<li class="project {{ post.category }}">
 				{% if post.project_page == true %}
@@ -75,10 +77,10 @@
 			{% endif %}
 			</li>
 
-			</ul>
+
 		  {% endif %}
 		{% endfor %}
-
+			</ul>
 	</section>
 	
 		<!-- CV Part -->
