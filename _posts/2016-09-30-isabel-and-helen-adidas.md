@@ -1,6 +1,6 @@
 ---
 layout: post
-category: " fashion"
+category: fashion
 title: 'Adidas campaign'
 date: 2016-09-30T23:00:00.000+00:00
 client: 'Isabel and Helen '

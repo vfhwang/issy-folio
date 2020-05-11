@@ -1,6 +1,6 @@
 ---
 layout: post
-category: " workshops"
+category: workshops
 title: " Workshops for over 60 year olds"
 date: 2015-09-30T23:00:00.000+00:00
 client: 'Faceby Village Art Class '

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: " fashion"
+category: fashion
 title: Various jobs
 date: 2016-03-01 00:00:00 +0000
 client: Rankin Photography

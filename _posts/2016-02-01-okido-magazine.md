@@ -1,6 +1,6 @@
 ---
 layout: post
-category: " workshops"
+category: workshops
 title: Summer festival workshops
 date: 2016-02-01 00:00:00 +0000
 client: OKIDO

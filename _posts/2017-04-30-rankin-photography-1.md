@@ -1,6 +1,6 @@
 ---
 layout: post
-category: " fashion"
+category: fashion
 title: L’Oreal 
 date: 2017-04-30 23:00:00 +0000
 client: 'Rankin Photography'

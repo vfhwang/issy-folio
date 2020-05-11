@@ -1,6 +1,6 @@
 ---
 layout: post
-category: " fashion"
+category: fashion
 title: Robert Storeys Studio
 date: 2015-06-30 23:00:00 +0000
 client: 'Various jobs'

@@ -1,6 +1,6 @@
 ---
 layout: post
-category: " workshops"
+category: workshops
 title: Sunday Create and Make Sessions
 date: 2020-03-31T23:00:00.000+00:00
 client: Design museum

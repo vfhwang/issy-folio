@@ -1,6 +1,6 @@
 ---
 layout: post
-category: " workshops"
+category: workshops
 title: You’ve been framed
 date: 2019-02-17T00:00:00.000+00:00
 client: Kingston Foundation Diploma

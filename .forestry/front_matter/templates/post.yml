@@ -36,11 +36,12 @@ fields:
     required: true
     options:
     - film
-    - " workshops"
-    - " theatre"
+    - workshops
+    - theatre
     - puppets
     - exhibitions
-    - " fashion"
+    - fashion
+    - personal
     source:
       type: simple
       section: 
