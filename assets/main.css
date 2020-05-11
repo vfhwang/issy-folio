@@ -134,41 +134,43 @@ border:2px solid #4700B2;
       padding:3px;
       border-radius:4px;
       line-height:100%;
-      /* margin:-2px 4px 2px 4px; */
       white-space: nowrap;
       vertical-align: middle;
-      margin-bottom:4px;
-
     }
 
     .label.film{
       /* background-color:#467AD2; */
-      background-color:#1C5A7A;
+      background-color:#467AD2;
     }
 
     .label.fashion{
       /* background-color:#BD271A; */
-      background-color:#7553D7;
+      background-color:#6252A2;
     }
 
     .label.exhibitions{
       /* background-color:#78A65A; */
-      background-color:#2C594F;
+      background-color:#7BA95E;
     }
 
     .label.workshops{
       /* background-color:#FA9F45; */
-      background-color:#FFA644;
+      background-color:#DE9C58;
     }
 
     .label.theatre{
       /* background-color:#78A65A; */
-      background-color: #A06384;
+      background-color: #EBC352;
     }
 
     .label.puppets{
       /* background-color:#F08E81; */
-      background-color:#E64661;
+      background-color:#E2A4A2;
+    }
+
+    .label.personal{
+      /* background-color:#F08E81; */
+      background-color:#C4C4C4;
     }
 
     .label.other{
@@ -193,6 +195,18 @@ border:2px solid #4700B2;
       padding:30px 30px 10px;
       max-width: 1200px;
       box-shadow: 0px 0px 16px rgba(17,17,26,0.1);
+    }
+
+    .project-grid{
+      display:grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-gap: 20px;
+      justify-items: start;
+
+    }
+
+    .project-grid > li {
+
     }
     
     section{
@@ -230,32 +244,37 @@ border:2px solid #4700B2;
 
     .film{
       /* color:#467AD2; */
-      color:#1C5A7A;
+      color:#467AD2;
     }
 
     .fashion{
       /* color:#BD271A; */
-      color:#7553D7;
+      color:#6252A2;
     }
 
     .exhibitions{
       /* color:#78A65A; */
-      color:#2C594F;
+      color:#7BA95E;
     }
 
     .workshops{
       /* color:#FA9F45; */
-      color:#FFA644;
+      color:#DE9C58;
     }
 
     .theatre{
       /* color:#78A65A; */
-      color: #A06384;
+      color: #EBC352;
     }
 
     .puppets{
       /* color:#F08E81; */
-      color:#E64661;
+      color:#E2A4A2;
+    }
+    
+    .personal{
+      /* color:#F08E81; */
+      color:#C4C4C4;
     }
 
     .other{
