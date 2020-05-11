@@ -53,10 +53,11 @@
 			
 
 				<ul class="project-grid">
-					{% if post.project_page == true %}
-					<a href="{{ post.url }}">
-				{% endif %}
+
 			<li class="project {{ post.category }}">
+				{% if post.project_page == true %}
+				<a href="{{ post.url }}">
+			{% endif %}
 				<img src="{{post.featured_image}}">
 				<p class="small">{{ post.role }}</p>
 			<div class="titlewrapper">
@@ -69,11 +70,11 @@
 			</h3>
 				<div class="label {{ post.category }}"><p class="label">{{ post.client }}</p></div>
 			</div>
-
-			</li>
 			{% if post.project_page == true %}
 			</a>
 			{% endif %}
+			</li>
+
 			</ul>
 		  {% endif %}
 		{% endfor %}
