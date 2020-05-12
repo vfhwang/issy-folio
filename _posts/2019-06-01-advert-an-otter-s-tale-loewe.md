@@ -1,7 +1,7 @@
 ---
 layout: post
 category: puppets
-title: An Otter’s Tale - LOEWE
+title: An Otter’s Tale - Loewe
 date: 2019-06-01T23:00:00.000+00:00
 client: Nina Gantz / Gordon Allan / Blink Ink
 role: Assistant Puppet Maker
