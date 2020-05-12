@@ -121,6 +121,8 @@ border:2px solid #4700B2;
       width:100%;
       padding:0 0 30px 0;
     }
+
+
     
     .logo{
       position:fixed;
@@ -130,6 +132,11 @@ border:2px solid #4700B2;
       padding:0;
       z-index:-9;
       transform: translate(-50%, 0);
+    }
+
+    .footer{
+      top:inherit;
+      bottom:60px;
     }
 
     .label{
@@ -196,7 +203,7 @@ border:2px solid #4700B2;
     }
 
     #paper{
-      margin:242px 10px 200px;
+      margin:242px 10px 242px;
       background-color: white;
       border-radius: 2px;
       padding:30px 30px 10px;
@@ -310,7 +317,7 @@ border:2px solid #4700B2;
   }
 
   #paper{
-    margin:242px 60px 200px;
+    margin:242px 60px 242px;
     padding:60px 60px 30px;
     }
 
@@ -365,7 +372,7 @@ border:2px solid #4700B2;
 @media only screen and (min-width: 1320px) {
 
   #paper{
-    margin:242px auto 200px;
+    margin:242px auto 242px;
 
   }
 

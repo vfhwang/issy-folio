@@ -12,8 +12,8 @@ featured_order: 1
 vimeo_videos: true
 youtube_videos: false
 vimeo_ids:
-- '409840391 '
-- '410105287 '
+- '409840391'
+- '410105287'
 - '410631373'
 - '410653976'
 - '410116308'
