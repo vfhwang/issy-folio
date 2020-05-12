@@ -9,6 +9,11 @@ project_page: true
 featured: true
 featured_image: "/uploads/Screenshot 2020-05-11 at 15.17.25.png"
 featured_order: 
+vimeo_videos: false
+youtube_videos: true
+vimeo_ids: []
+youtube_ids:
+- tkFpNVxzhTs
 
 ---
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/tkFpNVxzhTs](https://www.youtube.com/embed/tkFpNVxzhTs "https://www.youtube.com/embed/tkFpNVxzhTs")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+I worked on the Don’t Hug me I’m Scared TV pilot under the art direction of Brin Frost. On this I furthered my skills by being involved in the build of the puppets as well as the props and being on set assisting with set dressing and extra puppetry hands when needed.
