@@ -2,20 +2,22 @@
 
 	<section>
 
-	<h3 class="projecttitle">
+	<h1 class="projecttitle {{ page.category }}">
 		{{ page.title }}
-	</h3>
-		<div class="label {{ page.category }}"><p class="label">{{ page.client }}</p></div>
+	</h1>
+
+		<div class="big label {{ page.category }}"><p class="label">{{ page.client }}</p></div>
 
 
 	</section>
-	
+	<section class="projectcontent">
 	{% if page.featured == true %}
 	<img src="{{ page.featured_image}}">
 
   	{% endif %}
 
-	{{page.content}}
+	  {{page.content}}
+
 
 	{% if page.vimeo_videos == true %}
 		{% for ID in page.vimeo_ids %}
@@ -26,4 +28,14 @@
   	{% endif %}
 
 
+	  {% if page.youtube_videos == true %}
+	  {% for ID in page.youtube_ids %}
+	  <div class="resp-container">
+		<iframe class="resp-iframe" src="https://www.youtube.com/embed/{{ID}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	  </div>
+	  {% endfor %}
+	{% endif %}
+
+
+	</section>
 	  {% include footer.html %}

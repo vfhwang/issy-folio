@@ -26,12 +26,12 @@
 				<a href="{{ post.url }}">
 			{% endif %}
 				<img src="{{post.featured_image}}">
-				<p class="small">{{ post.role }}</p>
+				<!-- <p class="small">{{ post.role }}</p> -->
 			<div class="titlewrapper">
+				<!-- <div class="label {{ post.category }}"><p>{{ post.client }}</p></div> -->
 			<h3 class="projecttitle">
 				{{ post.title }}
 			</h3>
-				<div class="label {{ post.category }}"><p class="label">{{ post.client }}</p></div>
 			</div>
 			{% if post.project_page == true %}
 			</a>
@@ -67,7 +67,7 @@
 						{{ post.title }}
 					{% endif %}
 				</h3>
-					<div class="label {{ post.category }}"><p class="label">{{ post.client }}</p></div>
+					<div class="label {{ post.category }}"><p>{{ post.client }}</p></div>
 				</div>
 
 				</li>
