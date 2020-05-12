@@ -13,6 +13,6 @@ featured_order: 1
 ---
 I was commissioned to make the workshops I had planned to facilitate over April, May, June and July into online content due to COVID 19. As children would be using the materials they had at home I wanted to make it inclusive as possible by reusing recycled materials.
 
-<div><iframe src="[https://player.vimeo.com/video/410116308](https://player.vimeo.com/video/410116308 "https://player.vimeo.com/video/410116308")" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div>
+<iframe src="[https://player.vimeo.com/video/410116308](https://player.vimeo.com/video/410116308 "https://player.vimeo.com/video/410116308")" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <p><a href="[https://vimeo.com/410116308](https://vimeo.com/410116308 "https://vimeo.com/410116308")">Create and Make - DIY Spin drum</a> from <a href="[https://vimeo.com/designmuseum](https://vimeo.com/designmuseum "https://vimeo.com/designmuseum")">Design Museum</a> on <a href="[https://vimeo.com](https://vimeo.com "https://vimeo.com")">Vimeo</a>.</p>
