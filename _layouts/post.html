@@ -17,9 +17,12 @@
 
 	{{page.content}}
 
-	{% if page.featured == true %}
-	<img src="{{ page.featured_image}}">
-
+	{% if page.vimeo_videos == true %}
+		{% for ID in page.vimeo_ids %}
+		<div class="resp-container">
+		<iframe src="https://player.vimeo.com/video/{{ID}}" class="resp-iframe" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+		</div>
+		{% endfor %}
   	{% endif %}
 
 
