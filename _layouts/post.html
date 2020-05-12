@@ -3,8 +3,10 @@
 <head>
 	<meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>{{ site.title }} - {{page.title}}</title>
+	<title>{{ site.title }}</title>
 	<link rel="stylesheet" href="/assets/main.css">
+  <!-- <script type="text/javascript" src="/assets/outline.js-master/outline.js" async></script> -->
+  <!-- <script type="text/javascript" src="/assets/scripts.js" async></script> -->
 
 
 	<!-- favicon -->
@@ -30,25 +32,35 @@
 
 </head>
 <body>
+<a href="/"><img class="logo" src="/assets/II_Logo.svg" alt="Isobel Irwin Logo"></a>
 
 	<section id="paper">
 
-		<section class="top">
-			<p class="backlink"><a href="/">Isobel Irwin</a></p>
 
-			<h1 class="{{page.category}}">{{page.client}} — {{ page.title }}</h1>
-			<p class="small {{page.category}}">{{ page.role }}</p>
-		</section>
+		
+		<!-- Featured -->
 
+	<section>
 
-		<section class="project">
-			{{content}}
-		</section>
+	<h3 class="projecttitle">
+		{{ page.title }}
+	</h3>
+		<div class="label {{ page.category }}"><p class="label">{{ page.client }}</p></div>
 
 
 	</section>
+	
+	{% if page.featured == true %}
+	<img src="{{ page.featured_image}}">
 
+  	{% endif %}
 
+	{{page.content}}
+
+	{% if page.featured == true %}
+	<img src="{{ page.featured_image}}">
+
+  	{% endif %}
 
 
 	</section>
