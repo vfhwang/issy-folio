@@ -1,13 +1,19 @@
 ---
 layout: post
 category: puppets
-title: "An Otter’s Tale - LOEWE"
-date: 2019-06-01 23:00:00 +0000
-client: Nina Gantz / Gordon Allan / Blink Ink 
+title: An Otter’s Tale - LOEWE
+date: 2019-06-01T23:00:00.000+00:00
+client: Nina Gantz / Gordon Allan / Blink Ink
 role: Assistant Puppet Maker
 project_page: true
+featured: true
+featured_image: "/uploads/Screenshot 2020-05-12 at 21.26.20.png"
+featured_order: 
+vimeo_videos: true
+youtube_videos: false
+vimeo_ids:
+- '373116069'
+youtube_ids: []
 
 ---
-<iframe src="[https://player.vimeo.com/video/373116069](https://player.vimeo.com/video/373116069 "https://player.vimeo.com/video/373116069")" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-<p><a href="[https://vimeo.com/373116069](https://vimeo.com/373116069 "https://vimeo.com/373116069")">An Otter&#039;s Tale - LOEWE</a> from <a href="[https://vimeo.com/user4176724](https://vimeo.com/user4176724 "https://vimeo.com/user4176724")">ninagantz</a> on <a href="[https://vimeo.com](https://vimeo.com "https://vimeo.com")">Vimeo</a>.</p>
+I assisted Josie Corben in covering the armatures of the puppets in the fabric details and making the legs, feet and wings of the birds. I also assisted with the set, helping making fabric leaves, tree trunks and earth side section.
