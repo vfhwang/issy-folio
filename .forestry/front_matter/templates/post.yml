@@ -52,15 +52,6 @@ fields:
   type: boolean
   label: Project page
   description: Toggle to on if this project needs it's own page
-- name: permalink
-  type: text
-  config:
-    required: false
-  description: 'The bit after isobelirwin.com. Use: /category/title'
-  showOnly:
-    field: project_page
-    value: true
-  label: URL
 - name: featured
   type: boolean
   label: Featured
@@ -86,6 +77,42 @@ fields:
     step: 
   showOnly:
     field: featured
+    value: true
+- name: vimeo_videos
+  type: boolean
+  label: Vimeo videos
+  description: Do you have vimeo videos to put on the page?
+  showOnly:
+    field: featured
+    value: true
+- name: youtube_videos
+  type: boolean
+  label: Youtube videos
+  description: Do you have youtube videos to add?
+  showOnly:
+    field: featured
+    value: true
+- name: vimeo_ids
+  type: list
+  config:
+    use_select: false
+    min: 1
+    max: 
+  label: Vimeo IDs
+  description: Put the numbers from your vimeo videos in here, eg:410116308
+  showOnly:
+    field: vimeo_videos
+    value: true
+- name: youtube_ids
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Youtube IDs
+  description: 'Put the IDs from your youtube videos in here, eg: tkFpNVxzhTs'
+  showOnly:
+    field: youtube_videos
     value: true
 pages:
 - _posts/2015-03-01-exhibition-event-always-print-the-myth-pr-and-the-modern-age.md
