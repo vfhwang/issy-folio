@@ -1,7 +1,7 @@
 ---
 layout: post
 category: fashion
-title: Fashion Editorials / Adverts - Window Display
+title: Fashion Editorials / Adverts - Window Display Installs
 date: 2015-05-31T23:00:00.000+00:00
 client: 'George Lewin Studio '
 role: 'Set Assistant '
