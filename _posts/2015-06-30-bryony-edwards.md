@@ -1,7 +1,7 @@
 ---
 layout: post
 category: fashion
-title: 'Magazine Editorials - Fashion Adverts - Window Display Installs '
+title: Fashion Editorials / Adverts - Window Display
 date: 2015-06-30T23:00:00.000+00:00
 client: 'Bryony Edwards '
 role: Set Assistant
