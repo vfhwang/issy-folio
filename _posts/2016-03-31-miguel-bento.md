@@ -1,7 +1,7 @@
 ---
 layout: post
 category: fashion
-title: 'Magazine Editorials - Fashion Adverts - Display Installs '
+title: Fashion Editorials / Adverts - Window Display
 date: 2016-03-31T23:00:00.000+00:00
 client: Miguel Bento
 role: Set Assistant
