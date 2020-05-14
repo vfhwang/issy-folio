@@ -3,6 +3,7 @@ layout: post
 category: film
 title: Connfection
 date: 2015-09-30 23:00:00 +0000
+hide_client: false
 client: Ed Rigg / Misfit Studios
 role: 'Art department  '
 project_page: false

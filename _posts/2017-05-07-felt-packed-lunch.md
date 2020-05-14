@@ -4,6 +4,7 @@ category: personal
 featured_order: 0
 title: 'Felt Packed Lunch '
 date: 2017-05-07 23:00:00 +0000
+hide_client: false
 client: My Nephew
 role: Prop Maker
 project_page: false

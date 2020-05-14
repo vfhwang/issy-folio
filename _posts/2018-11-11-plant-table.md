@@ -4,6 +4,7 @@ category: personal
 featured_order: 0
 title: 'Plant table '
 date: 2018-11-11 00:00:00 +0000
+hide_client: false
 client: My Bedroom
 role: Prop Maker
 project_page: false

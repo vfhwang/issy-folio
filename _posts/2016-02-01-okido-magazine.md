@@ -3,6 +3,7 @@ layout: post
 category: workshops
 title: Summer Workshops
 date: 2016-02-01T00:00:00.000+00:00
+hide_client: false
 client: OKIDO
 role: Workshop Facilitator
 project_page: false

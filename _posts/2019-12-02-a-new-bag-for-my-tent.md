@@ -4,6 +4,7 @@ category: personal
 featured_order: 0
 title: 'A new bag for my tent '
 date: 2019-12-02 00:00:00 +0000
+hide_client: false
 client: 'My Tent '
 role: Prop Maker
 project_page: false

@@ -3,6 +3,7 @@ layout: post
 category: film
 title: 'TV Pilot ‘Don’t Hug Me I’m Scared’ '
 date: 2018-01-02T00:00:00.000+00:00
+hide_client: false
 client: Brin Frost / Blink Ink Productions
 role: 'Art Department / Puppet maker / Set Assistant '
 project_page: true

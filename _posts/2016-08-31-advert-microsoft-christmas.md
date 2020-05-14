@@ -3,6 +3,7 @@ layout: post
 category: film
 title: Microsoft Christmas
 date: 2016-08-31T23:00:00.000+00:00
+hide_client: false
 client: Zach Apo-Tsang
 role: Set Dresser
 project_page: false

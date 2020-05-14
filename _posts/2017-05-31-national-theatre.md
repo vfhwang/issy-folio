@@ -3,6 +3,7 @@ layout: post
 category: theatre
 title: '2 Weeks Work Experience - St George and the Dragon - Pinocchio '
 date: 2017-05-31T23:00:00.000+00:00
+hide_client: false
 client: " National Theatre"
 role: 'Prop Maker '
 project_page: false

@@ -3,6 +3,7 @@ layout: post
 category: puppets
 title: Wolves in the Walls
 date: 2020-01-02 00:00:00 +0000
+hide_client: false
 client: Toby Olie / Little Angel Theatre
 role: Assistant Puppet Maker
 project_page: true
