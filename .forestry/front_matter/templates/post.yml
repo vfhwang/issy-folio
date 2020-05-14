@@ -18,19 +18,19 @@ fields:
   config:
     required: true
     date_format: DD/MM/YYYY
-- name: show_client
+- name: hide_client
   type: boolean
-  label: Show client
-  description: Show the client label
-  default: true
+  label: Hide client
+  description: Hide the client label
+  default: false
 - type: text
   name: client
   label: client
   config:
     required: true
   showOnly:
-    field: show_client
-    value: true
+    field: hide_client
+    value: false
 - name: role
   type: text
   config:
