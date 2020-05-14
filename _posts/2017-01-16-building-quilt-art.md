@@ -2,7 +2,7 @@
 layout: post
 category: personal
 featured_order: 0
-title: Building Quilt Art
+title: Building Quilt Artwork
 date: 2017-01-16 00:00:00 +0000
 client: My Wall
 role: 'Artist '
