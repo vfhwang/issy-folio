@@ -67,7 +67,9 @@
 						{{ post.title }}
 					{% endif %}
 				</h3>
+				{% if post.show_client == true %}
 					<div class="label {{ post.category }}"><p>{{ post.client }}</p></div>
+				{% endif %}
 				</div>
 
 				</li>
