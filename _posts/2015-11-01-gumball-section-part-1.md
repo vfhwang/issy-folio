@@ -2,8 +2,8 @@
 layout: post
 category: film
 title: 'The Amazing World of Gumball '
-date: 2015-11-01T00:00:00.000+00:00
-client: 'Becky & Joe / Blink Ink'
+date: 2015-11-01 00:00:00 +0000
+client: Becky & Joe / Blink Ink
 role: Prop Maker / Puppeteer / Set Assistant
 project_page: false
 
