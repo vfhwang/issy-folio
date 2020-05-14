@@ -1,7 +1,7 @@
 ---
 layout: post
 category: fashion
-title: 'Christmas Window Displays For John Lewis & Molton Brown '
+title: 'Window Displays For John Lewis & Molton Brown '
 date: 2016-09-30T23:00:00.000+00:00
 client: Sarah Feather Design
 role: Prop Maker
