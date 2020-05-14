@@ -1,7 +1,7 @@
 ---
 layout: post
 category: fashion
-title: 'Magazine Editorials - Fashion Shoots - Display Installs '
+title: 'Magazine Editorials - Fashion Adverts - Display Installs '
 date: 2016-03-31T23:00:00.000+00:00
 client: Miguel Bento
 role: Set Assistant
