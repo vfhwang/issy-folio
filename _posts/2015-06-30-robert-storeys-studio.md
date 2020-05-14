@@ -1,7 +1,7 @@
 ---
 layout: post
 category: fashion
-title: Fashion Adverts - Event Installs - Display Installs
+title: Fashion Adverts - Event Installs - Window Display Installs
 date: 2015-06-30T23:00:00.000+00:00
 client: Robert Storeys Studio
 role: Set Assistant
