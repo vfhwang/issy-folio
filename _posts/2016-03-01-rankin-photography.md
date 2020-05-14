@@ -1,7 +1,7 @@
 ---
 layout: post
 category: fashion
-title: 'Numerous Beauty Adverts '
+title: 'Fashion Adverts '
 date: 2016-03-01T00:00:00.000+00:00
 client: Rankin Photography
 role: Production Intern / Set Assistant
