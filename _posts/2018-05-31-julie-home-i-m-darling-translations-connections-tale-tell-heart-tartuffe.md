@@ -1,10 +1,18 @@
 ---
 layout: post
 category: theatre
-title: 'Julie, Home I’m darling, Translations, Connections, Tale Tell Heart, Tartuffe '
-date: 2018-05-31 23:00:00 +0000
+title: 'Exit the King - Julie - Home I’m darling - Translations - Connections - Pericles
+  - Tale Tell Heart - Tartuffe '
+date: 2018-05-31T23:00:00.000+00:00
 client: National Theatre
 role: " Prop Maker"
 project_page: false
+featured: false
+featured_image: ''
+featured_order: 
+vimeo_videos: false
+youtube_videos: false
+vimeo_ids: []
+youtube_ids: []
 
 ---
