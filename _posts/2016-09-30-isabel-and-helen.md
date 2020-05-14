@@ -1,7 +1,7 @@
 ---
 layout: post
 category: fashion
-title: Fashion Editorials / Adverts - Window Display
+title: Fashion Editorials / Adverts - Window Display Installs
 date: 2016-09-30T23:00:00.000+00:00
 client: 'Isabel and Helen '
 role: Set Assistant
