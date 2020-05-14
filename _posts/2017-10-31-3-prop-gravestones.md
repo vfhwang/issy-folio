@@ -1,7 +1,7 @@
 ---
 layout: post
 category: exhibitions
-title: 'Gravestone Props for an Event '
+title: 'Gravestone Props '
 date: 2017-10-31T00:00:00.000+00:00
 client: Hubbub
 role: Prop Maker
