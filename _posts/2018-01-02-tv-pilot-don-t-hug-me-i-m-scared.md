@@ -8,7 +8,7 @@ client: Brin Frost / Blink Ink Productions
 role: 'Art Department / Puppet maker / Set Assistant '
 project_page: true
 featured: true
-featured_image: "/uploads/Screenshot 2020-05-11 at 15.17.25.png"
+featured_image: "/uploads/website-heros_0000_screenshot-2020-05-11-at-15.17.25.jpg"
 featured_order: 
 vimeo_videos: false
 youtube_videos: true
