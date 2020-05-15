@@ -8,7 +8,7 @@ client: Nina Gantz / Gordon Allan / Blink Ink
 role: Assistant Puppet Maker
 project_page: true
 featured: true
-featured_image: "/uploads/Screenshot 2020-05-12 at 21.26.20.png"
+featured_image: "/uploads/website-heros_0005_screenshot-2020-05-14-at-22.24.26.jpg"
 featured_order: 
 vimeo_videos: true
 youtube_videos: false
