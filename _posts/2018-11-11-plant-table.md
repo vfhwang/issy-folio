@@ -1,12 +1,12 @@
 ---
 layout: post
 category: personal
-featured_order: 0
-title: 'Plant table '
-date: 2018-11-11 00:00:00 +0000
+featured_order: "0"
+title: 'Metal frame plant table '
+date: 2018-11-11T00:00:00.000+00:00
 hide_client: false
-client: My Bedroom
-role: Prop Maker
+client: ''
+role: Maker
 project_page: false
 featured: false
 featured_image: ''
