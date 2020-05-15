@@ -2,13 +2,13 @@
 layout: post
 category: workshops
 title: Create and Make Sessions
-date: 2020-03-15 00:00:00 +0000
+date: 2020-03-15T00:00:00.000+00:00
 hide_client: false
 client: Design Museum
 role: Workshop Facilitator and Content Creator
 project_page: true
 featured: true
-featured_image: "/uploads/Screenshot 2020-05-11 at 14.40.28.png"
+featured_image: "/uploads/website-heros_0004_layer-1.jpg"
 featured_order: 1
 vimeo_videos: true
 youtube_videos: false
