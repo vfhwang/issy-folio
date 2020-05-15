@@ -8,7 +8,7 @@ client: 'OKIDO '
 role: Prop Maker
 project_page: true
 featured: true
-featured_image: "/uploads/Screenshot 2020-05-12 at 21.28.29.png"
+featured_image: "/uploads/website-heros_0002_img_9829.jpg"
 featured_order: 
 vimeo_videos: false
 youtube_videos: false
