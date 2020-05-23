@@ -100,14 +100,14 @@ fields:
   label: Vimeo videos
   description: Do you have vimeo videos to put on the page?
   showOnly:
-    field: featured
+    field: project_page
     value: true
 - name: youtube_videos
   type: boolean
   label: Youtube videos
   description: Do you have youtube videos to add?
   showOnly:
-    field: featured
+    field: project_page
     value: true
 - name: vimeo_ids
   type: list
