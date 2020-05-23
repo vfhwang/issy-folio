@@ -122,6 +122,15 @@ fields:
   showOnly:
     field: youtube_videos
     value: true
+- name: featured_title
+  type: text
+  config:
+    required: false
+  label: Featured_title
+  description: Title in the featured area
+  showOnly:
+    field: featured
+    value: true
 pages:
 - _posts/2015-03-01-exhibition-event-always-print-the-myth-pr-and-the-modern-age.md
 - _posts/2015-05-31-don-t-hug-me-i-m-scared-episode-5.md
