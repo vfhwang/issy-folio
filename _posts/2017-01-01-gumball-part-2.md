@@ -6,13 +6,16 @@ date: 2017-01-01T00:00:00.000+00:00
 hide_client: false
 client: 'Simon Cartwright & Baker Terry / Brin Frost / Blink Ink'
 role: " Prop Maker / Puppeteer / Set Assistant"
-project_page: false
+project_page: true
+featured: false
+vimeo_videos: true
+youtube_videos: false
+vimeo_ids:
+- '283474061'
+- '283474189'
+- '283474948'
+- '283476239'
+youtube_ids: []
+
 
 ---
-<iframe title="vimeo-player" src="[https://player.vimeo.com/video/283474061](https://player.vimeo.com/video/283474061 "https://player.vimeo.com/video/283474061")" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
-<iframe title="vimeo-player" src="[https://player.vimeo.com/video/283474189](https://player.vimeo.com/video/283474189 "https://player.vimeo.com/video/283474189")" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
-<iframe title="vimeo-player" src="[https://player.vimeo.com/video/283474948](https://player.vimeo.com/video/283474948 "https://player.vimeo.com/video/283474948")" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
-<iframe title="vimeo-player" src="[https://player.vimeo.com/video/283476239](https://player.vimeo.com/video/283476239 "https://player.vimeo.com/video/283476239")" width="640" height="360" frameborder="0" allowfullscreen></iframe>
