@@ -6,14 +6,15 @@ date: 2015-09-30T23:00:00.000+00:00
 hide_client: false
 client: Becky & Joe / Blink Ink
 role: 'Art department '
-project_page: false
+project_page: true
 featured: false
 featured_image: ''
 featured_order: 
 vimeo_videos: false
-youtube_videos: false
+youtube_videos: true
 vimeo_ids: []
-youtube_ids: []
+youtube_ids:
+- C2kp_IDpI6E
+featured_title: ''
 
 ---
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/C2kp_IDpI6E](https://www.youtube.com/embed/C2kp_IDpI6E "https://www.youtube.com/embed/C2kp_IDpI6E")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
