@@ -30,7 +30,11 @@
 			<div class="titlewrapper">
 				<!-- <div class="label {{ post.category }}"><p>{{ post.client }}</p></div> -->
 			<h3 class="projecttitle">
+				<!-- {% if post.featured_title %} -->
+				{{ post.featured_title }}
+				<!-- {else}
 				{{ post.title }}
+				{% endif %} -->
 			</h3>
 			</div>
 			{% if post.project_page == true %}
