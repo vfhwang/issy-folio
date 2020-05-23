@@ -15,6 +15,7 @@ youtube_videos: false
 vimeo_ids:
 - '373116069'
 youtube_ids: []
+featured_title: 'An Otter’s Tale - Loewe'
 
 ---
 I assisted Josie Corben in covering the armatures of the puppets in the fabric details and making the legs, feet and wings of the birds. I also assisted with the set, helping making fabric leaves, tree trunks and earth side section.
