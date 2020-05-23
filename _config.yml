@@ -20,8 +20,8 @@
 
 title: Isobel Irwin
 email: isobelgeorginairwin@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-				Portfolio of Isobel Irwin. I make props, puppets and run workshops. 
+description: | 
+ Portfolio of Isobel Irwin. I make props, puppets and run workshops. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
