@@ -1,9 +1,9 @@
 ---
 layout: post
-category: film
-featured_order: 0
+category: []
+featured_order: "0"
 title: Wooden bowl
-date: 2018-10-26 23:00:00 +0000
+date: 2018-10-26T23:00:00.000+00:00
 hide_client: false
 client: 'My Shelve '
 role: Prop Maker
