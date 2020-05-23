@@ -11,11 +11,12 @@ featured: false
 featured_image: ''
 featured_order: 
 vimeo_videos: false
-youtube_videos: false
+youtube_videos: true
 vimeo_ids: []
-youtube_ids: []
+youtube_ids:
+- CHyAURUQwUc
+- JViDEPJBBq0
+featured_title: ''
+
 
 ---
-[https://www.youtube.com/watch?v=CHyAURUQwUc&feature=youtu.be](https://www.youtube.com/watch?v=CHyAURUQwUc&feature=youtu.be "https://www.youtube.com/watch?v=CHyAURUQwUc&feature=youtu.be")
-
-[https://www.youtube.com/watch?v=JViDEPJBBq0&feature=youtu.be](https://www.youtube.com/watch?v=CHyAURUQwUc&feature=youtu.be "https://www.youtube.com/watch?v=CHyAURUQwUc&feature=youtu.be")

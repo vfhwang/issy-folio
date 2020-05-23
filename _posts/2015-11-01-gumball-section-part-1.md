@@ -6,7 +6,16 @@ date: 2016-11-14 00:00:00 +0000
 hide_client: false
 client: Becky & Joe / Blink Ink
 role: Prop Maker / Puppeteer / Set Assistant
-project_page: false
+project_page: true
+featured: false
+featured_image: ''
+featured_order: 
+vimeo_videos: false
+youtube_videos: true
+vimeo_ids: []
+youtube_ids:
+- VXhmSnrr4_g
+featured_title: ''
+
 
 ---
-![](/uploads/IMG_8441.jpg)![](/uploads/IMG_8450.jpg)<iframe width="560" height="315" src="[https://www.youtube.com/embed/VXhmSnrr4_g](https://www.youtube.com/embed/VXhmSnrr4_g "https://www.youtube.com/embed/VXhmSnrr4_g")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

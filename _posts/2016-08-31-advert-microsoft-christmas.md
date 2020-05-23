@@ -6,14 +6,14 @@ date: 2016-08-31T23:00:00.000+00:00
 hide_client: false
 client: Zach Apo-Tsang
 role: Set Dresser
-project_page: false
+project_page: true
 featured: false
 featured_image: ''
 featured_order: 
 vimeo_videos: false
-youtube_videos: false
+youtube_videos: true
 vimeo_ids: []
-youtube_ids: []
-
+youtube_ids:
+- QyZl0UVPehQ
+featured_title: ''
 ---
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/QyZl0UVPehQ](https://www.youtube.com/embed/QyZl0UVPehQ "https://www.youtube.com/embed/QyZl0UVPehQ")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
