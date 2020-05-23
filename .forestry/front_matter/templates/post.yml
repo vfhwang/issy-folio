@@ -64,6 +64,15 @@ fields:
   type: boolean
   label: Featured
   description: 'Should this be at the top of the page? '
+- name: featured_title
+  type: text
+  config:
+    required: false
+  label: Featured_title
+  description: Title in the featured area
+  showOnly:
+    field: featured
+    value: true
 - name: featured_image
   type: file
   config:
@@ -121,15 +130,6 @@ fields:
   description: 'Put the IDs from your youtube videos in here, eg: tkFpNVxzhTs'
   showOnly:
     field: youtube_videos
-    value: true
-- name: featured_title
-  type: text
-  config:
-    required: false
-  label: Featured_title
-  description: Title in the featured area
-  showOnly:
-    field: featured
     value: true
 pages:
 - _posts/2015-03-01-exhibition-event-always-print-the-myth-pr-and-the-modern-age.md
