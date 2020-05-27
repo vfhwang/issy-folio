@@ -2,11 +2,19 @@
 layout: post
 category: film
 title: Connfection
-date: 2015-09-30 23:00:00 +0000
+date: 2015-09-30T23:00:00.000+00:00
 hide_client: false
 client: Ed Rigg / Misfit Studios
 role: 'Art department  '
-project_page: false
+project_page: true
+featured: false
+featured_title: ''
+featured_image: ''
+featured_order: 
+vimeo_videos: true
+youtube_videos: false
+vimeo_ids:
+- '153903139'
+youtube_ids: []
 
 ---
-[https://vimeo.com/153903139](https://vimeo.com/153903139 "https://vimeo.com/153903139")
