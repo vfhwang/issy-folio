@@ -27,4 +27,4 @@ For the October half term, I designed a collaborative workshop where families co
 
 For winter season I designed a workshop where families could make their own decorations and wrapping paper to paint, print and stitch your way into the festive winter holidays. To see more Information on the Design Museum website click [here](https://designmuseum.org/whats-on/families/create-and-make-past/winter-sunday-create-and-make-festive-crafting).
 
-![](/uploads/img_0863.JPG)
+![](/uploads/img_3078.JPG)
