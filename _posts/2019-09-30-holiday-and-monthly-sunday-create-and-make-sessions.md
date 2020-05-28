@@ -19,7 +19,7 @@ vimeo_ids:
 - '410653976'
 - '410116308'
 youtube_ids: []
-featured_title: Create and Make Sessions
+featured_title: Online Create and Make Sessions
 
 ---
 I was commissioned to make the workshops I had planned to facilitate over April, May, June and July into online content due to COVID 19. As children would be using the materials they had at home I wanted to make it inclusive as possible by reusing recycled materials.
