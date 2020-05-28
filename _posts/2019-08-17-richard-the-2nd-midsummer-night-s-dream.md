@@ -14,5 +14,7 @@ vimeo_videos: false
 youtube_videos: false
 vimeo_ids: []
 youtube_ids: []
+featured_title: ''
 
 ---
+![](/uploads/img_1150.JPG)![](/uploads/img_9290.JPG "Puppets For Richard the 2nd")
