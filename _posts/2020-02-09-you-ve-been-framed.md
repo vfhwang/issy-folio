@@ -24,3 +24,7 @@ On day 1 the students visit the paintings and then from their research take a na
 ![](/uploads/kw-painting-1.jpeg)
 
 ![](/uploads/img_3728.jpg)
+
+![](/uploads/kw-painting-2.jpeg)
+
+![](/uploads/img_3744.JPG)
