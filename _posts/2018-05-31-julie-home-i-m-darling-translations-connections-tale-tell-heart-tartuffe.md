@@ -19,3 +19,13 @@ featured_title: Prop making at the National Theatre
 
 ---
 Since 2017 I have been a freelance prop maker at the National theatre and have worked on the build for the following productions : Exit the King, Julie, Translations, Home I’m Darling, Connections 2018, Pericles, Tale tell heart, Tartuffe, St George and the Dragon and Pinocchio. On these different productions I’ve gained skills such as upholstery, mould making and scenic paint effects. Here's a few examples of this.
+
+![](/uploads/img_6843.JPG)
+
+![](/uploads/img_6992.JPG)
+
+![](/uploads/rntq7600.JPG)
+
+![](/uploads/img_6813.JPG)
+
+![](/uploads/sssa0126.JPG)![](/uploads/img_7223.JPG)![](/uploads/img_6568.JPG)
