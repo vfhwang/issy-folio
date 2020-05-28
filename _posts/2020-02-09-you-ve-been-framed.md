@@ -17,6 +17,8 @@ vimeo_ids: []
 youtube_ids: []
 
 ---
-Over the course of a week I worked with the Visual communicators on a project we called ‘You’ve Been Framed’. The students make a set and produce a photograph from relating to a painting we picked from Tate Britain. Designed as a group project, we wanted to show them how important it is to work together and learn about the different roles in the process of building the set to presenting the final image. 
+For 1 week I worked with the Visual communicators on a project I designed with the Tutors called ‘You’ve Been Framed’. We designed it as a group project as we wanted to show them how important it is to work together and learn about the different roles in the process of building the set to presenting the final image.
 
-![](/uploads/kw-painting-1.jpeg)[img_3728.HEIC](/uploads/img_3728.HEIC "img_3728.HEIC")
+On day 1 the students visit the paintings and then from their research take a narrative which they can then design into a set for the final image. They then have 3 days to make the set and produce the final image. Then on the last day each group present what they've made. 
+
+![](/uploads/kw-painting-1.jpeg)
