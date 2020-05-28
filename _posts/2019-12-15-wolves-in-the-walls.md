@@ -14,7 +14,7 @@ vimeo_videos: false
 youtube_videos: false
 vimeo_ids: []
 youtube_ids: []
-featured_title: 'Wolves in the Walls'
+featured_title: Wolves in the Walls
 
 ---
-I assisted with the build of the 3 wolves by making the back bone structure, hessian bodies and tails. For the family human puppets I assisted in brown papering, sculpting hands, attaching limbs and altering clothes to fit them. I also got the opportunity to make a miniature prop bed.
+![](/uploads/img_3374.JPG)![](/uploads/img_3348.JPG)![](/uploads/img_3258.JPG)![](/uploads/img_3008.JPG)I assisted with the build of the 3 wolves by making the back bone structure, hessian bodies and tails. For the family human puppets I assisted in brown papering, sculpting hands, attaching limbs and altering clothes to fit them. I also got the opportunity to make a miniature prop bed.
