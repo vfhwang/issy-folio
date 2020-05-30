@@ -28,9 +28,6 @@ fields:
   label: client
   config:
     required: true
-  showOnly:
-    field: show_client
-    value: true
 - name: role
   type: text
   config:
