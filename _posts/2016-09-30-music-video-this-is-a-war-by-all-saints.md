@@ -3,7 +3,7 @@ layout: post
 category: film
 title: 'This is a War — All Saints '
 date: 2016-09-30T23:00:00.000+00:00
-hide_client: false
+
 client: Rankin
 role: Set Dresser
 project_page: true

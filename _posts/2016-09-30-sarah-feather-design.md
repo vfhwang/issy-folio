@@ -3,7 +3,7 @@ layout: post
 category: fashion
 title: 'Window Displays For John Lewis & Molton Brown '
 date: 2016-09-30T23:00:00.000+00:00
-hide_client: false
+
 client: Sarah Feather Design
 role: Prop Maker
 project_page: false

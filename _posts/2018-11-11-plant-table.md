@@ -4,7 +4,7 @@ category: personal
 featured_order: "0"
 title: 'Metal frame plant table '
 date: 2018-11-11T00:00:00.000+00:00
-hide_client: true
+
 client: ''
 role: Maker
 project_page: false

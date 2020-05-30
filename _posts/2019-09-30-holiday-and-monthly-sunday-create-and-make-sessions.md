@@ -3,7 +3,7 @@ layout: post
 category: workshops
 title: 'Online Create and Make Sessions '
 date: 2020-03-15T00:00:00.000+00:00
-hide_client: false
+
 client: Design Museum
 role: Workshop Facilitator and Content Creator
 project_page: true

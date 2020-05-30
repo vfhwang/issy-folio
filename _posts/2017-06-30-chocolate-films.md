@@ -3,7 +3,7 @@ layout: post
 category: workshops
 title: "Love Bug"
 date: 2017-06-30T23:00:00.000+00:00
-hide_client: false
+
 client: Chocolate Films / Kew Gardens
 role: Animation Workshop Facilitator
 project_page: true

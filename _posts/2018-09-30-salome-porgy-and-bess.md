@@ -3,7 +3,7 @@ layout: post
 category: theatre
 title: Salome - Porgy & Bess
 date: 2018-09-30T23:00:00.000+00:00
-hide_client: false
+
 client: 'English National Opera '
 role: Prop maker
 project_page: false

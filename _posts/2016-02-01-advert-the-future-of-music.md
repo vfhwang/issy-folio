@@ -3,7 +3,7 @@ layout: post
 category: film
 title: "The Future of Music"
 date: 2016-02-01T00:00:00.000+00:00
-hide_client: false
+
 client: "Greg Barth / Will Vincent / Blink Ink"
 role: Art Department
 project_page: true

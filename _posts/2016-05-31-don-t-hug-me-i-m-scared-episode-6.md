@@ -3,7 +3,7 @@ layout: post
 category: film
 title: "Don’t Hug Me I’m Scared — Episode 6"
 date: 2016-05-31T23:00:00.000+00:00
-hide_client: false
+
 client: "Becky & Joe / Blink Ink"
 role: Prop Maker / Puppeteer / Set Assistant
 project_page: true

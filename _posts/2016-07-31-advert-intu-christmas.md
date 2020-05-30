@@ -3,7 +3,7 @@ layout: post
 category: film
 title: Intu Christmas
 date: 2016-07-31T23:00:00.000+00:00
-hide_client: false
+
 client: 'Joe Mann / Gordon Allan / Blink Ink '
 role: Art Department
 project_page: true
