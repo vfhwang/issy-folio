@@ -4,8 +4,7 @@ category: workshops
 featured_order: 0
 title: Create and Make Sessions
 date: 2020-01-26 00:00:00 +0000
-
-client: ''
+client: ""
 role: 'Workshop Facilitator and Content Creator '
 project_page: true
 featured: false

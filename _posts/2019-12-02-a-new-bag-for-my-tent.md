@@ -4,8 +4,7 @@ category: personal
 featured_order: 
 title: 'A new bag for my tent '
 date: 2019-12-02T00:00:00.000+00:00
-
-client: 'My Tent '
+client: ''
 role: Maker
 project_page: false
 featured: false

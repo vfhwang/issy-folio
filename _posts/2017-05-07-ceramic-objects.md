@@ -5,8 +5,8 @@ featured_order:
 title: Ceramic Objects
 date: 2017-05-07T23:00:00.000+00:00
 
-client: My House
-role: 'Artist '
+client: 
+role: 'Artist'
 project_page: false
 featured: false
 featured_image: ''

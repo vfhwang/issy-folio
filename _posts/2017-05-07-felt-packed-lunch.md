@@ -5,7 +5,7 @@ featured_order:
 title: 'Felt Packed Lunch '
 date: 2017-05-07T23:00:00.000+00:00
 
-client: My Nephew
+client: 
 role: Maker
 project_page: false
 featured: false
