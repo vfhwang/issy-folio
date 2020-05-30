@@ -22,4 +22,4 @@ I assisted Josie Corben in covering the armatures of the puppets in the fabric d
 
 ![](/uploads/img_0996.JPG)
 
-![](/uploads/img_1090.JPG)![](/uploads/img_1057.JPG)![](/uploads/img_1110.JPG)![](/uploads/img_1277.JPG)![](/uploads/img_1305.JPG)![](/uploads/img_1299.JPG)![](/uploads/img_1300.JPG)
+![](/uploads/img_1090.JPG)![](/uploads/img_1057.JPG)![](/uploads/img_1110.JPG)![](/uploads/img_1278.JPG)![](/uploads/img_1305.JPG)![](/uploads/img_1299.JPG)![](/uploads/img_1300.JPG)
