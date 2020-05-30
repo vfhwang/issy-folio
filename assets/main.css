@@ -316,13 +316,13 @@ border:2px solid #4700B2;
 
 
     h1.projecttitle{
-      font-size:22px;
+      font-size:20px;
       display:block;
       font-weight:800;
     }
     
     .big > p{
-      font-size:16px;
+      font-size:14px;
     }
 
   /* Videos */
@@ -348,7 +348,7 @@ border:2px solid #4700B2;
   @media only screen and (min-width: 600px) {
 
   body{
-  font-size:24px;
+  font-size:20px;
   }
 
   #paper{
@@ -399,7 +399,7 @@ border:2px solid #4700B2;
 
 
   h1.projecttitle{
-    font-size:28px;
+    font-size:24px;
     max-width:66%;
     font-weight:800;
   }
@@ -409,7 +409,7 @@ border:2px solid #4700B2;
   }
 
   .big > p{
-    font-size:20px;
+    font-size:18px;
   }
 
 

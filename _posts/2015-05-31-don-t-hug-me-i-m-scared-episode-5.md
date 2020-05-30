@@ -8,8 +8,6 @@ client: 'Becky & Joe / Blink Ink'
 role: 'Art department '
 project_page: true
 featured: false
-featured_image: "/uploads/website-heros_0005_screenshot-2020-05-14-at-22.24.26.jpg"
-featured_order: 
 vimeo_videos: true
 youtube_videos: false
 vimeo_ids:
@@ -17,3 +15,5 @@ vimeo_ids:
 youtube_ids: []
 
 ---
+
+
