@@ -16,27 +16,29 @@
 	<!-- {% if page.featured == true %}
 	<img src="{{ page.featured_image}}">
 
-  	{% endif %} -->
+	  {% endif %} -->
+	  
+	  {% if page.vimeo_videos == true %}
+	  {% for ID in page.vimeo_ids %}
+	  <div class="resp-container">
+	  <iframe src="https://player.vimeo.com/video/{{ID}}" class="resp-iframe" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+	  </div>
+	  {% endfor %}
+	{% endif %}
+
+
+	{% if page.youtube_videos == true %}
+	{% for ID in page.youtube_ids %}
+	<div class="resp-container">
+	  <iframe class="resp-iframe" src="https://www.youtube.com/embed/{{ID}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	{% endfor %}
+  {% endif %}
+
 
 	  {{page.content}}
 
 
-	{% if page.vimeo_videos == true %}
-		{% for ID in page.vimeo_ids %}
-		<div class="resp-container">
-		<iframe src="https://player.vimeo.com/video/{{ID}}" class="resp-iframe" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-		</div>
-		{% endfor %}
-  	{% endif %}
-
-
-	  {% if page.youtube_videos == true %}
-	  {% for ID in page.youtube_ids %}
-	  <div class="resp-container">
-		<iframe class="resp-iframe" src="https://www.youtube.com/embed/{{ID}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	  </div>
-	  {% endfor %}
-	{% endif %}
 
 
 	</section>
