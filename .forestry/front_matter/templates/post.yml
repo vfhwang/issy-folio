@@ -18,11 +18,6 @@ fields:
   config:
     required: true
     date_format: DD/MM/YYYY
-- name: hide_client
-  type: boolean
-  label: Hide client
-  description: Hide the client label
-  default: false
 - type: text
   name: client
   label: client
