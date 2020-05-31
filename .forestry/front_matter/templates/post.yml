@@ -74,19 +74,6 @@ fields:
     field: featured
     value: true
   description: The image used alongside the project
-- name: featured_order
-  type: number
-  label: Featured_order
-  description: 'Which number in the order of featured posts is this? '
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
-  showOnly:
-    field: featured
-    value: true
 - name: vimeo_videos
   type: boolean
   label: Vimeo videos
