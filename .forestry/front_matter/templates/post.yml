@@ -22,7 +22,7 @@ fields:
   name: client
   label: client
   config:
-    required: true
+    required: false
 - name: role
   type: text
   config:

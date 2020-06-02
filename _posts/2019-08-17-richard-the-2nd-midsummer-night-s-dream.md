@@ -16,6 +16,10 @@ youtube_ids: []
 featured_title: ''
 
 ---
-For Richard the 2nd I spend a week building three small puppets that were to be in used very briefly in shadow puppetry scene. One of the puppets was then to be removed from the rod and placed into a headdress.   ![](/uploads/img_9278.JPG)![](/uploads/img_9290.JPG "Puppets For Richard the 2nd")
+For Richard the 2nd I spend a week building three small puppets that were to be in used very briefly in shadow puppetry scene. One of the puppets was then to be removed from the rod and placed into a headdress.
 
-For A Midsummer Night's Dream I spent two weeks modifying 80 pinatas and making a fancy dress lions costume for one of the characters who transforms into a lion. ![](/uploads/img_0854.JPG)![](/uploads/img_0864.JPG)![](/uploads/img_0863.JPG)![](/uploads/img_0840.JPG)
+   ![](/uploads/img_9278.JPG)![](/uploads/img_9290.JPG "Puppets For Richard the 2nd")
+
+For A Midsummer Night's Dream I spent two weeks modifying 80 pinatas and making a fancy dress lions costume for one of the characters who transforms into a lion.
+
+ ![](/uploads/img_0854.JPG)![](/uploads/img_0864.JPG)![](/uploads/img_0863.JPG)![](/uploads/img_0840.JPG)
