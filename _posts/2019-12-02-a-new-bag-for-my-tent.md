@@ -4,9 +4,9 @@ category: personal
 featured_order: 
 title: 'A new bag for my tent '
 date: 2019-12-02T00:00:00.000+00:00
-client: "..."
+client: ''
 role: Maker
-project_page: false
+project_page: true
 featured: false
 featured_image: ''
 vimeo_videos: false
