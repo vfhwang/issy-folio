@@ -14,8 +14,8 @@ vimeo_videos: false
 youtube_videos: false
 vimeo_ids: []
 youtube_ids: []
-
+images:
+- "/uploads/img_1150.JPG"
 ---
 For 4 days I help assist Daisy Beattie with the build in some of the puppets. I made a snake and 3 basic monkeys puppet and then scrimmed them as well as the boars head. I also assisted in rewiring the octopus's tentacles.
 
- ![](/uploads/img_1150.JPG)

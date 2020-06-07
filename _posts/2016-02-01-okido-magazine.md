@@ -14,6 +14,11 @@ vimeo_videos: false
 youtube_videos: false
 vimeo_ids: []
 youtube_ids: []
+images:
+- "/uploads/IMG_8009.jpg"
+- "/uploads/IMG_8013.jpg"
+- "/uploads/IMG_7528.jpg"
+- "/uploads/IMG_7530.jpg"
 
 ---
-![](/uploads/IMG_8009.jpg)![](/uploads/IMG_8013.jpg)![](/uploads/IMG_7528.jpg)![](/uploads/IMG_7530.jpg)
+

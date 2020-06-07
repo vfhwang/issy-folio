@@ -15,6 +15,10 @@ youtube_videos: false
 vimeo_ids: []
 youtube_ids: []
 featured_title: ''
+images:
+- "/uploads/eyam-marc-brenner.jpg"
+- "/uploads/img_7325.JPG"
+- "/uploads/img_7527.JPG"
+- "/uploads/img_7552.JPG"
 
 ---
-![](/uploads/eyam-marc-brenner.jpg)![](/uploads/img_7325.JPG)![](/uploads/img_7527.JPG)![](/uploads/img_7552.JPG)

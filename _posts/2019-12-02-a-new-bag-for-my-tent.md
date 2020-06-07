@@ -14,8 +14,11 @@ youtube_videos: false
 vimeo_ids: []
 youtube_ids: []
 featured_title: ''
+images:
+- "/uploads/img-5713.jpg"
+- "/uploads/img_5714.jpg"
 
 ---
 I made a new bag for my tent using the material from the old broken one. 
 
-![](/uploads/img-5713.jpg)![](/uploads/img_5714.jpg)
+

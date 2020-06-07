@@ -10,6 +10,12 @@ project_page: false
 featured: false
 featured_image: ''
 featured_order: 
+images:
+- "/uploads/IMG_1712.jpg"
+- "/uploads/IMG_1709.jpg"
+- "/uploads/IMG_1422.jpg"
+- "/uploads/IMG_1438.jpg"
+- "/uploads/IMG_1723.jpg"
 
 ---
-![](/uploads/IMG_1712.jpg)![](/uploads/IMG_1709.jpg)![](/uploads/IMG_1422.jpg)![](/uploads/IMG_1438.jpg)![](/uploads/IMG_1723.jpg)
+

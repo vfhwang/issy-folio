@@ -14,6 +14,12 @@ vimeo_videos: false
 youtube_videos: false
 vimeo_ids: []
 youtube_ids: []
+images:
+- "/uploads/IMG_3153.jpg"
+- "/uploads/IMG_3244.jpg"
+- "/uploads/IMG_3031.jpg"
+- "/uploads/IMG_3056.jpg"
+- "/uploads/IMG_3057.jpg"
+- "/uploads/IMG_3062.jpg"
 
 ---
-![](/uploads/IMG_3153.jpg)![](/uploads/IMG_3244.jpg)![](/uploads/IMG_3031.jpg)![](/uploads/IMG_3056.jpg)![](/uploads/IMG_3057.jpg)![](/uploads/IMG_3062.jpg)

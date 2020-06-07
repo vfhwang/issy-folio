@@ -14,7 +14,11 @@ vimeo_ids:
 - '202515176'
 - '157950364'
 youtube_ids: []
+images:
+- "/uploads/IMG_4631.jpg"
+- "/uploads/IMG_4614.jpg"
+- "/uploads/IMG_4610.jpg"
 
 ---
 
-![](/uploads/IMG_4631.jpg)![](/uploads/IMG_4614.jpg)![](/uploads/IMG_4610.jpg)
+
