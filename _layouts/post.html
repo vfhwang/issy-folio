@@ -6,9 +6,10 @@
 		{{ page.title }}
 	</h1>
 
-	{% if page.hide_client == false %}
-		<div class="big label {{ page.category }}"><p class="label">{{ page.client }}</p></div>
-	{% endif %}
+	{% if post.client == blank or post.client == " "  or post.client == "" %}
+	{% else %}
+	<div class="big label {{ page.category }}"><p class="label">{{ page.client }}</p></div>
+{% endif %}
 
 
 	</section>
@@ -17,6 +18,8 @@
 	<img src="{{ page.featured_image}}">
 
 	  {% endif %} -->
+	  
+	  {{page.content}}
 	  
 	  {% if page.vimeo_videos == true %}
 	  {% for ID in page.vimeo_ids %}
@@ -36,7 +39,7 @@
   {% endif %}
 
 
-	  {{page.content}}
+
 
 
 
