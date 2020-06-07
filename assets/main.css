@@ -342,7 +342,31 @@ border:2px solid #4700B2;
   border: 0;
 }
 
+.flexslider {
+  /* width: 200px; */
+  /* max-height: 50vh; */
+}
 
+
+
+.flexslider .slides img {
+  max-height: 50vh;
+  width:auto;
+  text-align: center;
+}
+
+.slides > li{
+  text-align: center;
+
+}
+
+.customnavigation{
+  display:block;
+}
+
+.flex-next{
+  float:right;
+}
   
 
   @media only screen and (min-width: 600px) {
@@ -411,7 +435,7 @@ border:2px solid #4700B2;
   .big > p{
     font-size:16px;
   }
-  
+
   .project-grid{
     display:grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -434,3 +458,5 @@ border:2px solid #4700B2;
 
 
 }
+
+

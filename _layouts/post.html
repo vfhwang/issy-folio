@@ -39,11 +39,25 @@
   {% endif %}
 
 
-
-
+  {% if page.images %}
+  <div class="flexslider">
+    <ul class="slides">
+      {% for slide in page.images %}
+      <li>
+        <img src="{{ slide }}">
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="custom-navigation">
+	<a href="#" class="flex-prev">Prev</a>
+	<a href="#" class="flex-next">Next</a>
+  </div>
+  {% endif %}
 
 
 
 	</section>
-	
+
 	  {% include footer.html %}
+
