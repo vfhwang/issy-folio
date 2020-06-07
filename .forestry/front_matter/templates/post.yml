@@ -65,6 +65,13 @@ fields:
   showOnly:
     field: featured
     value: true
+- name: images
+  type: image_gallery
+  config: {}
+  label: Images
+  showOnly:
+    field: project_page
+    value: true
 - name: featured_image
   type: file
   config:
