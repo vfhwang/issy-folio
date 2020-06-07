@@ -350,18 +350,14 @@ border:2px solid #4700B2;
 
 
 .flexslider .slides img {
-  max-height: 50vh;
-  width:auto;
+  height: auto;
+  /* width: auto; */
   text-align: center;
 }
 
 .slides > li{
   text-align: center;
 
-}
-
-.customnavigation{
-  display:block;
 }
 
 .flex-next{
@@ -444,6 +440,10 @@ border:2px solid #4700B2;
 
   }
 
+  .flexslider .slides img {
+    max-height: 600px;
+    width:auto;
+  }
 
 }
 
@@ -455,6 +455,10 @@ border:2px solid #4700B2;
 
   }
 
+  .flexslider .slides img {
+    max-height: 700px;
+  }
+  
 
 
 }
