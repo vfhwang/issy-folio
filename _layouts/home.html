@@ -69,8 +69,8 @@
 					{{ post.title }}
 				{% endif %}
 			</h3>
-			{% if post.client == blank or post.client == " "  or post.client == "" %}
-				{% else %}
+			{% if post.client == blank or post.client == " "  or post.client == "" or post.client == '' or post.client == ' ' %}
+			{% else %}
 				<div class="label {{ post.category }}"><p>{{ post.client }}</p></div>
 			{% endif %}
 			</div>

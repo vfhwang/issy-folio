@@ -363,6 +363,10 @@ border:2px solid #4700B2;
 .flex-next{
   float:right;
 }
+
+.pageheader{
+  margin:0 0 60px 0;
+}
   
 
   @media only screen and (min-width: 600px) {
@@ -424,9 +428,9 @@ border:2px solid #4700B2;
     font-weight:800;
   }
 
-  .big{
+  /* .big{
     float:left;
-  }
+  } */
 
   .big > p{
     font-size:16px;

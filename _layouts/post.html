@@ -1,15 +1,18 @@
 {% include header.html %}
 
-	<section>
+	<section class="pageheader">
 
 	<h1 class="projecttitle {{ page.category }}">
 		{{ page.title }}
 	</h1>
 
-	{% if post.client == blank or post.client == " "  or post.client == "" %}
+	
+
+	{% if page.client == blank or page.client == " " or page.client == ""  or page.client == '' %}
 	{% else %}
 	<div class="big label {{ page.category }}"><p class="label">{{ page.client }}</p></div>
-{% endif %}
+	{% endif %}
+
 
 
 	</section>
