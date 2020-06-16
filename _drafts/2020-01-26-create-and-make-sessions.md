@@ -5,7 +5,7 @@ featured_order: 0
 title: Create and Make Sessions
 date: 2020-01-26T00:00:00.000+00:00
 client: 'Design Museum '
-role: 'Workshop Facilitator and Content Creator'
+role: Workshop Facilitator and Content Creator
 project_page: true
 featured: false
 featured_title: ''
