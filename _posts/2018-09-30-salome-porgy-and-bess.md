@@ -1,7 +1,7 @@
 ---
 layout: post
 category: theatre
-title: Salome - Porgy & Bess
+title: Salome - Porgy & Bess - War Requiem
 date: 2018-09-30T23:00:00.000+00:00
 client: 'English National Opera '
 role: Prop maker
