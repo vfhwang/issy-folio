@@ -1,13 +1,16 @@
 ---
 layout: post
 category: personal
-featured_order: "0"
-title: Wooden bowl
-date: 2018-10-26T23:00:00.000+00:00
-client: ""
+title: 'Wooden Bowl '
+date: 2018-10-26 23:00:00 +0000
+client: ''
 role: Maker
-project_page: false
+project_page: true
 featured: false
+featured_title: ''
+images:
+- "/uploads/img_8008.JPG"
+- "/uploads/img_7999.JPG"
 featured_image: ''
 vimeo_videos: false
 youtube_videos: false
@@ -15,3 +18,4 @@ vimeo_ids: []
 youtube_ids: []
 
 ---
+To learn how to use a wood lathe I took a days course at Blackhorse Studios and made a wooden bowl. It was a very satisfying and enjoyable process. 
