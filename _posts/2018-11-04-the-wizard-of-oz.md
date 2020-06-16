@@ -23,4 +23,4 @@ vimeo_ids: []
 youtube_ids: []
 
 ---
-For a week I assisted Jo Lakin on the puppet team at the Rep Theatre in Birmingham for the Christmas show ‘The Wizard of OZ’. My main task was to make and attach all the facial features for the Munchkin characters, such as the hair, eyebrows and hats.
+For a week I assisted Jo Lakin at the Rep Theatre in Birmingham for the Christmas show ‘The Wizard of OZ’. My main task was to make and attach all the facial features for the Munchkin characters, such as the hair, eyebrows and hats.
