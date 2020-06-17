@@ -18,7 +18,7 @@ images:
 - "/uploads/img_9972.JPG"
 - "/uploads/img_1223-1.jpg"
 - "/uploads/img_1264.jpg"
-- "/uploads/img_1299.jpg"
+- "/uploads/img_1300.jpg"
 - "/uploads/img_1310-1.jpg"
 - "/uploads/img_7716-copy.JPG"
 
