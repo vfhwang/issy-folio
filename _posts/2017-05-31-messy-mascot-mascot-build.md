@@ -17,9 +17,10 @@ featured_title: Messy Monster
 images:
 - "/uploads/img_9972.JPG"
 - "/uploads/img_1223-1.jpg"
-- "/uploads/-big/IMG_1313.jpg"
+- "/uploads/img_1264.jpg"
 - "/uploads/img_1299.jpg"
-- "/uploads/-big/IMG_1310.jpg"
+- "/uploads/img_1310-1.jpg"
+- "/uploads/img_7716-copy.JPG"
 
 ---
 I was commissioned by OKIDO to make a mascot of their main character Messy Monster. I made this mascot over the course of two weeks for it to be used in workshops and OKIDO parties for children. It is used at Latitude Festival whilst during workshops and seeing the Mascot interact with families is very rewarding.
