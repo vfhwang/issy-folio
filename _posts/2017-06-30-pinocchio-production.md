@@ -21,6 +21,10 @@ images:
 - "/uploads/IMG_3057.jpg"
 - "/uploads/IMG_3153.jpg"
 - "/uploads/IMG_3244.jpg"
+- "/uploads/img_4937.JPG"
+- "/uploads/img_4986.JPG"
+- "/uploads/img_5021.JPG"
+- "/uploads/img_5007.JPG"
 - "/uploads/a-scene-from-pinocchio-pleasure-island-image-manuel-harlan.jpg"
 featured_title: ''
 
