@@ -25,3 +25,4 @@ youtube_ids:
 - VXhmSnrr4_g
 
 ---
+Under the direction of Becky and Joe I assisted in the build of the props, which was a of a objects made out of cardboard covered in grey felt. I was also lucky enough to help out on set with the dressing and occasionally puppeteering if they needed an extra hand. 
