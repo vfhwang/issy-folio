@@ -1,7 +1,7 @@
 ---
 layout: post
 category: theatre
-title: '2 Weeks Work Experience - St George and the Dragon - Pinocchio '
+title: '2 Weeks Work Experience - St George and the Dragon '
 date: 2017-05-31T23:00:00.000+00:00
 client: " National Theatre"
 role: 'Prop Maker '
