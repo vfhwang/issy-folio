@@ -9,8 +9,8 @@ project_page: true
 images:
 - "/uploads/FH000011.jpg"
 - "/uploads/IMG_2435.jpg"
+- "/uploads/img_1687-1.jpg"
 - "/uploads/IMG_2455.jpg"
-- "/uploads/IMG_1687.jpg"
 featured: false
 featured_title: ''
 featured_image: ''
