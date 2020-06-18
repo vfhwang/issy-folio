@@ -3,7 +3,6 @@ layout: post
 category: film
 title: Intu Christmas
 date: 2016-07-31T23:00:00.000+00:00
-
 client: 'Joe Mann / Gordon Allan / Blink Ink '
 role: Art Department
 project_page: true
@@ -21,5 +20,5 @@ images:
 - "/uploads/IMG_7275.jpg"
 - "/uploads/IMG_7387.jpg"
 
-
 ---
+For this I was mainly involved in making the cockerel, constructing and applying the matieral feathers. I also made small details such as the eye lashes and the peacocks peafowl feathers for his head. It was an eye opening experience to be apart of and furthered my interest in model and puppet making.
