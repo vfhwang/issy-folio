@@ -24,3 +24,4 @@ images:
 - "/uploads/img_0144-1.jpg"
 
 ---
+To build up the excitement for the release of the 'The Amazing World of Gumball', a couple of teaser videos were made. Under the direction of Brin Frost I assisted in the build of the props and then on set with the dressing and occasionally puppeteering if an extra hand was needed.
