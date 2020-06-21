@@ -8,7 +8,6 @@ role: 'Art Director '
 project_page: true
 featured: false
 featured_title: ''
-images: []
 featured_image: ''
 vimeo_videos: false
 youtube_videos: true
