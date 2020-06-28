@@ -14,6 +14,8 @@ youtube_videos: false
 vimeo_ids: []
 youtube_ids: []
 featured_title: ''
-images: []
+images:
+- "/uploads/option-1.jpg"
 
 ---
+I was asked by a good friend to design and make their 'save the date' and 'wedding invites. They were all individually rubber stamped by my friend and I. 
