@@ -14,6 +14,6 @@ vimeo_videos: false
 youtube_videos: true
 vimeo_ids: []
 youtube_ids:
-- n0JTta67aUE
+- https://youtu.be/n0JTta67aUE
 
 ---
