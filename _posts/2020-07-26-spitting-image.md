@@ -8,8 +8,7 @@ role: 'Standby Art Director '
 project_page: true
 featured: true
 featured_title: 'Spitting Image '
-images:
-- "/uploads/16f0c34c-82cc-4504-8fdc-8039932b1866.jpeg"
+images: []
 featured_image: ''
 vimeo_videos: false
 youtube_videos: true
@@ -18,3 +17,4 @@ youtube_ids:
 - n0JTta67aUE
 
 ---
+For 5 months I worked as Standby Art Director on the new series of Spitting Image. It was amazing being on set and being able to see first hand how it all worked with the sets and the puppets. Also I got the chance to learn the importance of a standby art directors role, gaining more experience on set. Occasionally when needed for the topical sets I’d help out making some props and drapes. Here is a photo of a steak I made of trumps face using real meat and also a ‘green energy inspired’ technological hat for Boris Johnsons puppet.   
