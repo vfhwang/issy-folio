@@ -8,7 +8,15 @@ role: 'Model Maker '
 project_page: true
 featured: true
 featured_title: 'Mouth Quest - Trolli '
-images: []
+images:
+- "/uploads/img_6727.jpg"
+- "/uploads/img_6731.jpg"
+- "/uploads/img_6736.jpg"
+- "/uploads/img_6796.jpg"
+- "/uploads/img_6890.jpg"
+- "/uploads/img_6880.jpg"
+- "/uploads/18ad7191-cc27-4329-81d0-801ae8d1f357.jpg"
+- "/uploads/img_6901.jpg"
 featured_image: "/uploads/header_1000x750_trolli-2.jpg"
 vimeo_videos: false
 youtube_videos: true
