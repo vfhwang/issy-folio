@@ -8,10 +8,7 @@ role: 'Props Buyer / Props Stylist '
 project_page: true
 featured: false
 featured_title: ''
-images:
-- "/uploads/img_5989.jpg"
-- "/uploads/b0bbf5fe-7ff0-4a5e-893d-6d895809eddb.JPG"
-- "/uploads/img_5989.HEIC"
+images: []
 featured_image: ''
 vimeo_videos: false
 youtube_videos: true

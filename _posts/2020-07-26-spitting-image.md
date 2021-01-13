@@ -10,8 +10,6 @@ featured: true
 featured_title: 'Spitting Image '
 images:
 - "/uploads/img_7508.jpg"
-- "/uploads/img_8190.jpg"
-- "/uploads/img_8284.jpg"
 featured_image: "/uploads/header_1000x750_sptting-image-1.jpg"
 vimeo_videos: false
 youtube_videos: true
