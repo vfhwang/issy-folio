@@ -8,7 +8,8 @@ role: 'Standby Art Director '
 project_page: true
 featured: true
 featured_title: 'Spitting Image '
-images: []
+images:
+- "/uploads/16f0c34c-82cc-4504-8fdc-8039932b1866.jpeg"
 featured_image: ''
 vimeo_videos: false
 youtube_videos: true
