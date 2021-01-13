@@ -17,3 +17,4 @@ youtube_ids:
 - MeG-PSI5MG8
 
 ---
+For 4 weeks I assisted Brin Frost in the build of the sets, by polycarving  landscapes and creating cave like backdrops. I also remoulded a batch of new Trolli sweet puppets using PT flex and made the story telling book puppet.  
