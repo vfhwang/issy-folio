@@ -22,9 +22,6 @@ images:
 - "/uploads/img_1110.JPG"
 - "/uploads/img_1278.JPG"
 - "/uploads/img_1305.JPG"
-- "/uploads/img_1299.JPG"
-- "/uploads/img_1300.JPG"
 
 ---
 For 4 weeks I assisted Josie Corben in covering the armatures of the puppets in the fabric details and making the legs, feet and wings of the birds. I also assisted with the build of the set, helping making fabric leaves, tree trunks and earth side section.
-
