@@ -30,6 +30,4 @@ vimeo_ids: []
 youtube_ids: []
 
 ---
-For 1 week in lockdown I worked with the Visual communicators on a project that I've previously designed with the Tutors at Kingston called ‘You’ve Been Framed’. 
-
-Unlike other years we've ran this project the groups had the added differently of working as a group but from their bedrooms. It was very inspiring to see how they creatively managed to still make it work. 
+For 1 week in lockdown I worked with the Visual communicators on a project that I've previously designed with the Tutors at Kingston called ‘You’ve Been Framed’. Unlike other years we've ran this project the groups had the added differently of working as a group but from their bedrooms. It was very inspiring to see how they creatively managed to still make it work.
