@@ -9,7 +9,7 @@ project_page: true
 featured: false
 featured_title: ''
 images:
-- "/uploads/screenshot-2021-09-01-at-20-38-15-2.png"
+- "/uploads/screenshot-2021-09-01-at-20-36-45.png"
 - "/uploads/img_0319.jpeg"
 - "/uploads/img_0317.jpeg"
 - "/uploads/img_0308.jpeg"
@@ -21,3 +21,4 @@ vimeo_ids: []
 youtube_ids: []
 
 ---
+My role in this was to assist Scarlett and a team of other makers in the build of the bird masks for the fashion campaign.  
