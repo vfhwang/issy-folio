@@ -3,7 +3,7 @@ layout: post
 category: film
 title: 'Don''t Hug Me I''m Scared TV Series '
 date: 2021-03-01 00:00:00 +0000
-client: 'Becky and Jo / Channel 4 / Blink Industries '
+client: 'Becky and Joe / Channel 4 / Blink Industries '
 role: 'Puppet Supervisor '
 project_page: false
 featured: false
