@@ -1,6 +1,6 @@
 ---
 layout: post
-category: theatre
+category: puppets
 title: 'Animal Farm '
 date: 2022-11-14 00:00:00 +0000
 client: Toby Olié
